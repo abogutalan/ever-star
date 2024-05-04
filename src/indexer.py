@@ -1,9 +1,9 @@
 import os
 from elasticsearch import Elasticsearch
-from langchain.document_loaders import BSHTMLLoader
-from langchain.embeddings.openai import OpenAIEmbeddings
+from langchain_community.document_loaders import BSHTMLLoader
+from langchain_openai import OpenAIEmbeddings
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain.vectorstores import ElasticVectorSearch
+from langchain_community.vectorstores import ElasticVectorSearch
 from data.Search.indexer_of_search import Indexer
 from data.Search.scraper_of_search import SparkNLPScraper
 
@@ -65,7 +65,7 @@ def ask(path, index_name):
         embeddings,
         elasticsearch_url="http://localhost:9200",
         index_name=index_name,
-        request_timeout=600,
+        # request_timeout=600,
 
     )
     print(db.client.info())

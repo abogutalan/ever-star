@@ -3,9 +3,9 @@ import elasticsearch
 from fastapi import FastAPI
 from config import openai_api_key
 from langchain.chains import RetrievalQA
-from langchain.chat_models import ChatOpenAI
-from langchain.vectorstores import ElasticVectorSearch
-from langchain.embeddings.openai import OpenAIEmbeddings
+from langchain_openai import OpenAIEmbeddings, ChatOpenAI
+
+from langchain_community.vectorstores import ElasticVectorSearch
 from data.Search.semantic_search_service import SemanticSearchService
 
 if not openai_api_key:
@@ -54,6 +54,7 @@ def ask(query: str):
 @app.post("/ask_models")
 def ask(query: str):
     response = qa_models.run(query)
+    # response = "hardcode to test so that OpenAI does not charge!"
     return {
         "response": response,
     }

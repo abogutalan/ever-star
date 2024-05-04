@@ -12,12 +12,20 @@ This project showcases a practical implementation of semantic search, demonstrat
 
 Technologies: Python, Elasticsearch, OpenAI GPT, LangChain, FastAPI.
 
+### Setting up env
+```
+python3 -m venv .venv
+source .venv/bin/activate
+pip3 install -r requirements.txt
+sh run_elasticsearch.sh
+```
+
 ### How to run:
 ```
 cd src/
-python indexer.py search
-python indexer.py ask_documents
-python indexer.py ask_models
+python3 indexer.py search
+python3 indexer.py ask_documents
+python3 indexer.py ask_models
 uvicorn app:app --reload
 http://127.0.0.1:8000/docs
 ```
@@ -39,6 +47,10 @@ How to extract medications and resolve their adverse reactions?
 [Spark NLP - Quick Start](https://sparknlp.org/docs/en/quickstart).
 [How I Turned My Company’s Docs into a Searchable Database with OpenAI](https://towardsdatascience.com/how-i-turned-my-companys-docs-into-a-searchable-database-with-openai-4f2d34bd8736#34d3).
 [Semantic search with Elasticsearch, OpenAI, and LangChain](https://dylancastillo.co/semantic-search-elasticsearch-openai-langchain/).
+
+
+pip install --upgrade langchain
+pip install -U langchain-community
 
 
 Repoya eklenecek
