@@ -1,0 +1,17 @@
+Phyla Protein
+A 3-Ketoacyl-CoA thiolase A
+A 3-Ketoacyl-CoA thiolase B
+A Phytanoyl-CoA dioxygenase
+A Alkylglycerone phosphate synthase P 3-Ketoacyl-CoA thiolase
+P Acyl-CoA oxidase
+P Malate dehydrogenase
+P Citrate synthase
+P Aspartate aminotransferase
+Species
+Rattus norvegicus Rattus norvegicus Rattus norvegicus Homo sapiens Cucurbita sp. Cucurbita sp. Cucurbita sp. Cucurbita sp. Glycine max
+Acc. nr.
+NP_036621.1 P21775 NP_446126.1 NP_003650 D70895 T07901 D90257 P49299 AAC50015
+Processing site
+AAPC//ISLI AAPC//ISLI AHPV//SGPA TNEC//KARR ASVC//AAGD METC//AAGK RANC//RAKG AHCV//SAQT ASPT//SASD
+Ref.
+[1] [2, 3] [4] [5] [6] [7] [8] [9] [10]

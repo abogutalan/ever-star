@@ -1,0 +1,724 @@
+BBA - Molecular Cell Research 1867 (2020) 118609
+   Contents lists available at ScienceDirect
+BBA - Molecular Cell Research
+journal homepage: www.elsevier.com/locate/bbamcr
+  Review
+The type-2 peroxisomal targeting signal
+Markus Kunze
+Medical University of Vienna, Center for Brain Research, Department of Pathobiology of the Nervous System, Spitalgasse 4, 1090 Vienna, Austria
+T
+  ARTICLE INFO
+Keywords:
+Peroxisomes Protein transport Targeting signals Evolution
+PTS2
+Peptide recognition
+1. Introduction
+Peroxisomes are ubiquitous single membrane-bounded organelles, which enclose a variety of metabolic reactions. Many of these are linked to the production of hydrogen peroxide (H2O2), which is specifically degraded in peroxisomes by catalase. Some of the pathways are evo- lutionary well-conserved, such as the degradation of fatty acids by peroxisomal β-oxidation, which is restricted to less abundant fatty acids like branched-chain, dicarboxylic and polyunsaturated fatty acids in chordates, or the oxidation of D-amino acids [1]. These pathways are complemented by enzymatic reactions contributing to the biosynthesis of ether-phospholipids or bile acids in animals [2], to photorespiration or the glyoxylate cycle in plants [3], and to glycolysis in protozoa [4]. The importance of peroxisomes is highlighted by a variety of inherited human diseases caused by a broad dysfunction of peroxisomal activity (peroxisome biogenesis disorders, PBDs) due to mutations in genes encoding proteins essential for the biogenesis of peroxisomes (peroxins, PEX)1 [2]. Moreover, individual peroxisomal functions can be abro- gated by a specific loss of single enzymes or transporter proteins (single enzyme or transporter deficiency) [2,6].
+1.1. Protein import into peroxisomes
+Peroxisomal matrix proteins are synthesized in the cytosol and
+ABSTRACT
+  The type-2 peroxisomal targeting signal (PTS2) is one of two peptide motifs destining soluble proteins for peroxisomes. This signal acts as amphiphilic α-helix exposing the side chains of all conserved residues to the same side. PTS2 motifs are recognized by a bipartite protein complex consisting of the receptor PEX7 and a co- receptor. Cargo-loaded receptor complexes are translocated across the peroxisomal membrane by a transient pore and inside peroxisomes, cargo proteins are released and processed in many, but not all species. The components of the bipartite receptor are re-exported into the cytosol by a ubiquitin-mediated and ATP-driven export mechanism. Structurally, PTS2 motifs resemble other N-terminal targeting signals, whereas the functional relation to the second peroxisomal targeting signal (PTS1) is unclear. Although only a few PTS2-carrying pro- teins are known in humans, subjects lacking a functional import mechanism for these proteins suffer from the severe inherited disease rhizomelic chondrodysplasia punctata.
+ transported posttranslationally across the membrane [7]. However, this import differs mechanistically from that into other organelles, where transported proteins surpass the membrane in a folded state and even oligomerized proteins, cross-linked antibodies or BSA-coated gold par- ticles can be imported [8]. Transported proteins encode a peroxisomal targeting signal (PTS) residing either at the extreme C-terminus (type-1, PTS1) or close to the N-terminus (type-2, PTS2) (Fig. 1A), although a few matrix proteins lacking such PTS have been identified [9,10]. PTS1 motifs were described as C-terminal tripeptide consisting of serine-ly- sine-leucine (-SKL) or conserved variants thereof [11], but later on systematic analyses revealed that a broad variety of tripeptides can function as PTS1 and that the sequence preceding the C-terminal tri- peptide modulates the ability of tripeptides to act as PTS1 [12,13]. PTS2 motifs are nonapeptide sequences, which are described in detail in Section 2. Another, less characterized PTS, sometimes termed PTS3 (type-3, PTS3), was hypothesized based on the peroxisomal localization of proteins lacking a detectable PTS1 or PTS2 motif, but detailed studies suggest that this phenomenon can be retraced either to atypical inter- actions with one of the receptor proteins [14,15] or to a co-transport of proteins by a piggy-back-like mechanism facilitated by the folded state of transported proteins [16,17]. Proteins harboring a PTS1 interact with the soluble receptor protein PEX5 [18,19] and proteins harboring a PTS2 are bound by a bipartite receptor consisting of the primary re- ceptor PEX7 [20–22] and a co-receptor [23]. In cargo-loaded state,
+ Abbreviations: PBD, peroxisome biogenesis disorder; PEX, peroxin; PMP, peroxisomal membrane protein; RCDP, rhizomelic chondrodysplasia punctate; RD, Refsum disease; TPR, tetratricopeptide repeat; ZSS, Zellweger syndrome spectrum
+1 E-mail address: markus.kunze@meduniwien.ac.at.
+Within this manuscript we follow the unifying PEX nomenclature established in ref. [5].
+https://doi.org/10.1016/j.bbamcr.2019.118609
+Received 29 September 2019; Received in revised form 8 November 2019; Accepted 13 November 2019
+Available online 18 November 2019
+0167-4889/ © 2019 Elsevier B.V. All rights reserved.
+
+M. Kunze
+BBA - Molecular Cell Research 1867 (2020) 118609
+ Fig. 1. Type-2 peroxisomal targeting signals (PTS2): (A) schematic re- presentation of proteins harboring either a PTS1 at the extreme C-terminus or a PTS2 close to the N-terminus; (B) WEB-logo (http://weblogo.threeplusone. com/) depiction of the relative amino acid frequency at different positions of PTS2 motifs based on the published PTS2 motifs summarized in Table 1 (tra- ditional); (C) the PTS2 helix of ScFox3p derived from the 3D structure in re- ceptor-bound state (PBD: 3w15C); the amino acids at the conserved positions are indicated with side chains and correspond to the PTS2 motif depicted below; (D) schematic representation of a PTS2-carrying protein: the N-terminal α-helix (red) is connected with the folded protein (brown) by an unstructured domain, which in many cases contains a processing site (PS, orange).
+these soluble receptors dock to a protein complex on the peroxisomal membrane, translocate across the membrane and release cargo proteins into the peroxisomal lumen before being recycled as free receptors back to the cytosol [24]. The effectivity and specificity of protein transport into peroxisomes is supported by an enrichment of mRNAs encoding peroxisomal proteins in proximity to the organelle, which facilitates translation close to the site of import [25,26].
+2. The PTS2 motif
+2.1. Basic description
+A few years after the identification and characterization of the PTS1 [11], it became clear that a second, independent targeting signal for peroxisomes exists close to the N-terminus, which was identified by two groups independently in peroxisomal 3-keto-acyl-CoA thiolase from rat [27,28] and was later termed PTS2. Similar targeting signals were also found within the N-terminal regions of proteins from plants [29], var- ious yeast species [30,31], protozoa [32] and mammals [33,34] (Table 1). PTS2 motifs were found close to the N-terminus, but at variable distances from the start, whereupon the position of the first residue of the nonapeptide ranges from amino acids 3 to 37 although later some internal PTS2 motifs have been suggested. Comparison of the identified PTS2 sequences revealed a similarity manifested in the loose consensus sequence [R/K]-[L/V/I]-[X]5-[H/Q]-[L/A] [9]. Based on this description, we introduced a novel nomenclature, in which the con- served positions are indicated as signal-relevant (S), whereas the others are defined as arbitrary (X), giving rise to the general designation S1- S2-X1-X2-X3-X4-X5-S3-S4 [35], which will be used throughout this article. Mutational analyses of PTS2 motifs in rat or tobacco cells or in the yeast S.cerevisiae confirmed the overall validity of this consensus sequence at the conserved positions, although some deviations were found [36–38]. Exemplarily, at position S1, lysine cannot functionally replace arginine in rat cells [37], whereas at position S2, glutamine was functional in the context of plant thiolase PTS2 [36]. Later on, the in- creasing availability of sequences of proteins homologous to PTS2- carrying proteins allowed statistical analyses of larger data sets [35,39,40]. From these, novel consensus sequences were extracted covering either all PTS2 motifs ([R/K]-[L/V/I/Q]-X-X-[L/V/I/H/Q]-[L/ S/G/A/K]-X-[H/Q]-[L/A/F]) or only the more abundant ones ([R]-[L/ V/I/Q]-X-X-[L/V/I/H]-[L/S/G/A]-X-[H/Q]-[L/A]) [40]. Moreover, large hydrophobic residues were found drastically overrepresented at the central position (X3) and substitution of this residue by a charged amino acid inactivated the PTS2, thus identifying a fifth important position within the consensus sequence [35]. By classifying each posi- tion according to the physical properties of the side chains, PTS2 motifs can be subdivided into three hydrophobic residues (S2, X3 and S4), one positively charged one (S1) and one positive polar one (S3), which is reflected by the consensus-like sequence R-Φ-X1-X2-Φ-X4-X5-[H/Q]-Φ, in which Φ denotes a hydrophobic residue (Fig. 1B). In contrast, low conservation was found at the other positions (X1, X2, X4 and X5), which correlates with minor effects of property-changing mutations at these positions on PTS2 functionality [35]. However, this low con- servation does not reflect irrelevance, because several PTS2-like non- apeptides conforming with this consensus sequence were found non- functional within a reporter protein context [35]. Finally, it needs to be emphasized that it is still unclear, whether PTS2 motifs have similar taxon-specific preferences as PTS1 motifs [41].
+The absence of helix-breaking prolines in PTS2 motifs and sec- ondary structure predictions of individual PTS2 suggested that the nonapeptide sequence could form an α-helix [39,42], which was cor- roborated by the marked overrepresentation of helix-forming amino acids across known PTS2 nonapeptides [35]. Taking on an α-helical conformation is also functionally essential, as artificial insertion of proline at a non-conserved position inactivates a prototypic PTS2 [35]. When the crystal structure of the N-terminus of yeast thiolase (Fox3p) in complex with the PTS2-receptor Pex7p was resolved, the PTS2 nonapeptide bound in an α-helical state [43]. Importantly, in such a conformation, all highly conserved positions orient their side chain towards one side of the helix (Fig. 1C). PTS2 helices are usually con- nected with the core protein by a stretch of amino acids mediating high structural flexibility, which was interpreted as linker domain sup- porting proper exposition of the PTS2 helix [35]. This is important, as peroxisomal protein import acts on fully folded proteins and a similar
+2
+
+M. Kunze
+BBA - Molecular Cell Research 1867 (2020) 118609
+the PTS2 motif is unclear (unclear function).
+The first group does not require further description except for the
+hint that some of these PTS2 motifs were just delineated from the identification of the protein in a peroxisomal proteome combined with the occurrence of a PTS2-like peptide within the N-terminal sequence or the peroxisomal localization of a fusion protein, in which the N-ter- minus is free and EGFP is positioned at the C-terminus. This category includes also less characterized proteins such as naphtoate synthase (ECHHId/NS), indigoidine synthase A family protein (IndA) and His- triad family protein 2 (HIT2) harboring a convincing PTS2 motif. Members of the second group present with a clear difference between the suggested PTS2 and the PTS2 consensus sequence, which is hard to reconcile with the specificity observed at the few conserved positions. Exemplarily, the Hsp70 protein from C.lanatus was found in peroxi- somes [44], but the suggested PTS2 harbors a lysine at position S3 and the isolated nonapeptide is not functional in a reporter protein upon expression in tobacco cells [36]. Similarly, the other representatives of this group appear with rather atypical forms of PTS2 motifs, e.g. the arginine at position S1 is not present or a proline is encoded within the nonapeptide. In the third group, the existence of a PTS2 was deduced indirectly, such as in case of iNOS, because the peroxisomal enzyme
+linker has been suggested for proteins harboring a PTS1 as well [41]. Furthermore, many PTS2-carrying proteins are processed within this unstructured domain upon import into peroxisomes, which confers another function to this domain (cf. Section 2.4). These properties of PTS2 motifs are summarized in Fig. 1D.
+2.2. PTS2-carrying proteins
+Although the underlying principles of PTS2 motifs are better un- derstood today, PTS2-carrying proteins described in the literature are rather heterogeneous. After compiling all available protein sequences and analyzing the PTS2 motifs in more detail (Table 1), some peculia- rities can now be observed and PTS2 motifs were systematized. Four groups of PTS2-carrying proteins are distinguished according to the PTS2 motif: (i) peroxisomal proteins, in which the PTS2 conforms to the traditional PTS2 consensus sequence (traditional PTS2), (ii) proteins, which have been assigned to peroxisomes, but the suggested PTS2 motif clearly deviates from the consensus sequence (atypical PTS2), (iii) peroxisomal proteins, in which the PTS2 has not yet been identified and its existence was deduced circumstantially or an atypical motif has been suggested (unknown signal) and (iv) proteins, in which the function of
+Table 1
+PTS2-carrying proteins. Protein
+Standardb
+Fa 3-ketoacyl-CoA thiolase
+F 3-ketoacyl-CoA thiolase
+F 3-ketoacyl-CoA thiolase
+F Amine oxidase
+F Glycerol-3-phosphate dehydrogenase (NAD(+)) A 3-ketoacyl-CoA thiolase A
+A Phytanoyl-CoA dioxygenase
+A Alkylglycerone phosphate synthase
+A C10ORF10
+A Coiled-coil domain-containing protein 33
+A Potassium channel interacting protein
+A von Willebrand factor A domain containing 8 M Farnesyl diphosphate synthase
+Pr Fructose-bisphosphate aldolase
+Pr Hexokinase
+P 3-ketoacyl-CoA thiolase
+P 3-ketoacyl-CoA thiolase 5
+P 3-ketoacyl-CoA thiolase 1
+P 3-keto-acyl-CoA thiolase 2
+P Citrate synthase
+P Citrate synthase 2
+P Citrate synthase 3
+P Malate dehydrogenase
+P Malate dehydrogenase
+P Malate dehydrogenase
+P Long-chain acyl-CoA synthetase 6
+P Long chain acyl-CoA synthetase 7
+P Acyl CoA oxidase homolog
+P Acyl-coenzyme A oxidase 3
+P Acyl-coenzyme A oxidase 2
+P Transthyretin-like protein
+P Heat shock protein 26
+P Aspartate aminotransferase
+P His triad family protein 2
+P His triad family protein 3
+P Naphthoate synthase
+P Indigoidine synthase A
+Atypicalb
+P Heat shock protein 70
+P Mevalonate 5-diphosphate decarboxylase P Mevalonate 5-diphosphate decarboxylase A Mevalonate kinase
+A Farnesyl-pyrophosphate synthase
+A HMG-CoA synthase
+A Mevalonate pyrophosphate decarboxylase
+Abbreviation
+Fox3p
+Pot1p CT-T3A
+AMO
+Gpd1p ACAA1 PHYH
+AGPS
+DEPP CCDC33 KChIP4.3 P7BP2/vWF8 FPS
+FBA
+HXK CYSZ KAT5 KAT1 KAT2 CSY1 CSY2 CSY3 MDH pMDH1 pMDH2 LACS6 LACS7 AOX AtACX3 AtACX2 TTL HSP26 ASP3 HIT2 HIT3 ECHId/NS IndA
+HSP70 MVD MVD MevK FPS HMGCS MPPDC
+Species
+Saccharomyces cerevisiae Yarrowia lipolytica Candida tropicalis Hansenula polymorpha Saccharomyces cerevisiae Rattus norvegicus
+Homo sapiens
+Homo sapiens
+Homo sapiens
+Mus musculus
+Homo sapiens
+Homo sapiens Dictyostelium discoideum Trypanosoma brucei Trypanosoma cruzi Cucurbita sp. Arabidopsis thaliana Arabidopsis thaliana Arabidopsis thaliana Cucurbita maxima Arabidopsis thaliana Arabidopsis thaliana Citrullus lanatus Arabidopsis thaliana Arabidopsis thaliana Arabidopsis thaliana Arabidopsis thaliana Cucurbita sp. Arabidopsis thaliana Arabidopsis thaliana Arabidopsisthaliana Arabidopsisthaliana Glycine max Arabidopsisthaliana Arabidopsis thaliana Arabidopsis thaliana Arabidopsis thaliana
+Citrullus lanatus Catharanthus roseus Arabidopsis thaliana Rattus norvegicus Rattus norvegicus Homo sapiens
+Homo sapiens
+Acc. number
+NP_012106 Q05493.1 P33290.1 P12807 NP_010262.1 P21775
+O14832 NP_003650 Q9NTK1.2 NP_083488.1 NP_079497 KIAA0564 Q9NH03 P07752 EAN77629.1 D70895 XP_002865685.1 XP_020867120.1 NP_001032037.1 P49299 NP_191434.1 NP_181807.1 P19446 At2g22780 At5g09660 NP_566265 AAM28874 T07901 P0CZ23.1 NP_201316.1 NP_200630.1 At1g06460 AAC50015 At5g48545.1 At3g56490.1 Q8GYN9 Q84K35
+AAC03416 ADR65113 O23722.1 NP_112325 NP_114028.1 Q01581.2 P53602.1
+PTS2
+RLQSIKDHL RLNNLATQL RLNQLSGQL RLRQIASQA RLNLTSGHL RLQVVLGHL RLQIVLGHL RLRVLSGHL RLLLSVAHL RILSLENQL RVESISAQL RMRLLLRQV RAAMISEHL RVEVLLTQL RLNNILEHI RQSILLHHL RQKILLRHL RQRILLQHL RQKILLRHL RLAVLAAHL RLAVLTAHL RLAVLSGHL RIARISAHL RIARISAHL RIARISAHL RINAIHSHL RLETIRSHI RIERLSLHL RAHVLANHI RIQRLSLHL RLRIIGGHL RLAAFAAHF RLNTLARHF RLAILCSHL RLAVLTYHL RLSVVTNHL RISNLQNHL
+RTVFFGQKL SVTLDPAHL SVTLDPDHL KVILHGEHA KLDVHNQE SVKTNLMQL SVTLHQDQL
+Ref.c [1]
+[2] [3] [4] [5] [6, 7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18] [18] [18] [19] [20] [20] [21] [22] [22] [23] [23] [24] [25] [26] [27] [28] [29] [30] [27] [27] [31]
+[32] [33] [33] [34] [35] [35] [35]
+  3
+(continued on next page)
+
+M. Kunze
+BBA - Molecular Cell Research 1867 (2020) 118609
+Table 1 (continued) Protein
+Pr Bromodomain factor 1
+Unknown signalb
+A Inducible nitric oxide synthase
+A Ezrin binding PDZ protein
+A von Willebrand factor A domain containing 8 P Inducible nitric oxide synthase
+Unclear functionb
+F Peroxin-11 F Peroxin-8
+Abbreviation Species
+BDF1 Trypanosoma cruzi
+iNOS Homo sapiens EBP50 Homo sapiens vWF8 Mus musculus
+iNOS Arabidopsis thaliana
+PEX11 Rattus norvegicus Pex8p/Per1p Hansenula polymorpha
+Acc. number PWV08297.1
+NP_000616.3 Q9JJ19.3 KIAA0564
+NP_445939.1 Q00925.1
+PTS2 Ref.c RLRNRIKVK [36]
+Unclear [37] Unclear [37] Unclear [38] Unclear [39]
+RLFRATQHA [40] KLGRQGRQL [41]
+   [1] R. Erdmann, Yeast, 10 (1994) 935–944; [2] G. Berninger, et al., Eur J Biochem, 216 (1993) 607–61; [3] N. Kanayama, et al., J. Ferment. Bioeng., 78 (1994) 273–278; [4] K.N. Faber, et al.; FEBS Lett, 357 (1995) 115–120; [5] S. Jung, et al., J Biol Chem, 285 (2010) 6739–6749; [6] B.W. Swinkels, et al., Embo J, 10 (1991) 3255–3262., [7] T. Osumi, et al., Biochem Biophys Res Commun, 181 (1991) 947–954; [8] G.A. Jansen, et al., Biochem Biophys Res Commun, 229 (1996) 205–210; [9] E.C. de Vet, et al., J Biol Chem, 273 (1998) 10296–10,301; [10] S. Salcher, et al., Mol Cancer, 13 (2014) 224; [11] K. Kaczmarek, et al., Cytogenet Genome Res, 126 (2009) 243–252; [12] M. Kunze, et al., J Biol Chem, 286 (2011) 45048–45,062; [13] H. Niwa, et al., J Biochem, 164 (2018) 437–447; [14] J.M. Nuttall, et al., Biochem J, 447 (2012) 353–361; [15] J. Blattner, et al., FEBS Lett, 360 (1995) 310–314; [16] A.J. Caceres, et al., Mol Biochem Parasitol, 126 (2003) 251–262; [17] A. Kato, et al., Plant Mol Biol, 31 (1996) 843–852; [18] C. Carrie, et al., Plant Mol Biol, 63 (2007) 97–108; [19] A. Kato, et al., Plant Mol Biol, 27 (1995) 377–390; [20] I. Pracharoenwattana, et al., Plant Cell, 17 (2005) 2037–2048; [21] C. Gietl, Proc Natl Acad Sci U S A, 87 (1990) 5773–5777; [22] I. Pracharoenwattana, et al., Plant J, 50 (2007) 381–390; [23] M. Fulda, et al., Plant J, 32 (2002) 93–103; [24] H. Hayashi, et al., J Biol Chem, 273 (1998) 8301–8307; [25] B.E. Froman, et al., Plant Physiol, 123 (2000) 733–742; [26] M.A. Hooks, et al., Plant J, 20 (1999) 1–13; [27] S. Reumann, et al., Plant Cell, 19 (2007) 3170–3193; [28] C. Ma, et al., Plant Physiol, 141 (2006) 47–60; [29] J.S. Gebhardt, et al., Plant Mol Biol, 37 (1998) 99–108; [30] S. Reumann, et al., Plant Physiol, 150 (2009) 125–143; [31] H. Eubel, et al., Plant Physiol, 148 (2008) 1809–1829; [32] B. Wimmer, et al., Proc Natl Acad Sci U S A, 94 (1997) 13624–13,629; [33] A.J. Simkin, et al., Planta, 234 (2011) 903–914; [34] K.D. Stamellos, et al., J Biol Chem, 267 (1992) 5560–5568; [35] L.M. Olivier, et al., J Lipid Res, 41 (2000) 1921–1935; [36] C. Ritagliati, et al., Biochem J, 473 (2016) 73–85; [37] P.A. Loughran, et al., Nitric Oxide, 31 (2013) 9–19; [38] S. Wiese, et al., International Journal of Mass Spectrometry, 312 (2012) 30–40; [39] F.J. Corpas, et al., FEBS Lett, 588 (2014) 2049–2054; [40] M. Passreiter, et al., J Cell Biol, 141 (1998) 373–383; [41] H.R. Waterham, et al., J Cell Biol, 127 (1994) 737–749.
+a Phylogenetic attribution: F, fungi; A, animals; Pr, protists; M, mycetozoa; P, plants.
+b Classification of PTS2: standard, traditional PTS2; atypical, PTS2 does not fulfill the traditional nonapeptide consensus, deviations are indicated as bold and
+underlined; unknown signal, existence of a PTS2 within the sequence was delineated indirectly; unclear function, functionality of the PTS2 is unclear, because the protein is a peroxisomal membrane protein (PMP) [40] or the PTS2 is not required for peroxisomal targeting [41].
+c Proteins were selected according to the date of the first publication providing evidence for a PTS2 in the respective protein, and this list was completed by those homologues of thiolase (Fox3p) from other yeast species, which have been used for the first definition of a PTS2 consensus sequence [9] and by proteins from A. thaliana, in which several copies of the same protein exist.
+activity was not observed in PEX7-deficient human, mouse or plant cells [45,46]. However, the suggested PTS2 sequence is located within the folded protein [46], whereas the C-terminus contains a PTS1-like sequence. Similarly, the PTS2 of murine von Willebrand factor like protein 8 (vWF8) was not identified, but the peroxisomal localization of the protein was abolished in mice lacking PEX7 [47]. Finally, in the fourth group, PTS2 motifs are summarized, which are either found in a peroxisomal membrane protein such as RnPEX11 [48] or in proteins which are imported by an atypical mechanism probably not involving PEX7, such as HpPex8p/HpPer1p ([49] and further references). For- mally, the PTS2 of long-chain acyl-CoA synthetase 7 (AtLACS7) could have been included into this class, as it encodes a well-defined PTS1 [50], but the protein was found to interact with PEX7 experimentally [51].
+2.3. Prediction of PTS2 motifs
+The prediction of targeting signals based on the amino acid se- quence of proteins has been amply used for various purposes such as identifying a specific targeting signal in a protein of interest, corro- borating a protein's attribution to an organelle, ranking candidates within lists of putative organellar proteins obtained by proteomic ap- proaches, or even computationally predicting the subcellular localiza- tion of proteins exclusively based on the amino acid sequence [10]. However, the consensus sequence of PTS2 motifs is too loose and the low number of independent proteins harboring PTS2 motifs limits the power of prediction algorithms, which are based on statistical analyses [10]. Accordingly, in many studies PTS1 and PTS2 motifs are indicated whenever found in proteins, but for PTS2 only the accordance with the loose PTS2-consensus motif can be indicated [52]. Several attempts have been performed to predict PTS2-carrying proteins from protein
+sequence databases using either a crude consensus sequence [M]-x0-20- [R/K]-[L/V/I]-x5-[H/Q]-[I/L/A/F] for protozoa (Leishmania and Try- panosoma) [53] or by prediction algorithms based on the relative abundance of amino acids at each position of the nonapeptide, but also of the context [35,54]. In one of these studies, four out of fifteen pre- dicted nonapeptide sequences encoded in human proteins were func- tional in the context of a reporter protein, but only one of the encoded proteins was found in peroxisomes, when expressed as EGFP fusion protein [35]. In the other approach, none of five tested candidate proteins was found in peroxisomes when expressed as full-length pro- tein [54], whereas the success of the prediction in protozoan protein sequences cannot be evaluated, because the actual localization has not been tested experimentally. However, the low reliability of these pre- dictions not only reflects statistical problems, but also a lack of un- derstanding of critical properties for this type of targeting signal. Fur- thermore, an online tool for PTS2 motifs has been provided by the BLOCKS server to identify PTS2 motifs in individual protein sequences (4.2 PTSs Predictor at http://www.peroxisomedb.org/) [55].
+2.4. Processing sites in PTS2-carrying proteins
+Early on it was recognized that PTS2-carrying proteins were pro- cessed, namely rat thiolase [56,57] or glyoxysomal malate dehy- drogenase [58]. Similarly, human alkylglycerone-phosphate synthase (AGPS) and rat phytanoyl-CoA hydroxylase were found to be processed inside peroxisomes [59–62]. Furthermore, in plants, the enzymes glyoxysomal citrate synthase, malate dehydrogenase, thiolase and acyl- CoA oxidase from pumpkin (Cucurbita sp.) have a PTS2 and are pro- cessed inside peroxisomes (formerly termed glyoxysomes) [63–68] (Table 2). In contrast, thiolase from S. cerevisiae is also imported by an N-terminal targeting signal, but was not found processed [31] and
+4
+
+M. Kunze
+BBA - Molecular Cell Research 1867 (2020) 118609
+Table 2
+Processing sites in PTS2-carrying proteins. Phyla Protein
+A 3-Ketoacyl-CoA thiolase A
+A 3-Ketoacyl-CoA thiolase B
+A Phytanoyl-CoA dioxygenase
+A Alkylglycerone phosphate synthase P 3-Ketoacyl-CoA thiolase
+P Acyl-CoA oxidase
+P Malate dehydrogenase
+P Citrate synthase
+P Aspartate aminotransferase
+Species
+Rattus norvegicus Rattus norvegicus Rattus norvegicus Homo sapiens Cucurbita sp. Cucurbita sp. Cucurbita sp. Cucurbita sp. Glycine max
+Acc. nr.
+NP_036621.1 P21775 NP_446126.1 NP_003650 D70895 T07901 D90257 P49299 AAC50015
+Processing site
+AAPC//ISLI AAPC//ISLI AHPV//SGPA TNEC//KARR ASVC//AAGD METC//AAGK RANC//RAKG AHCV//SAQT ASPT//SASD
+Ref.
+[1] [2, 3] [4] [5] [6] [7] [8] [9] [10]
+   [1] M. Hijikata, et al., J Biol Chem, 262 (1987) 8151–8158; [2] M. Hijikata, et al., J Biol Chem, 265 (1990) 4600–4606; [3] A.G. Bodnar, et al., Gene, 91 (1990) 193–199; [4] G.A. Jansen, et al., J Lipid Res, 40 (1999) 2244–2254; [5] J. Biermann, et al., Arch Biochem Biophys, 368 (1999) 139–146; [6] A. Kato, et al., Plant Mol Biol, 31 (1996) 843–852; [7] H. Hayashi, et al., J Biol Chem, 273 (1998) 8301–8307; [8] A. Kato, et al., Plant Cell Physiol, 39 (1998) 186–195; [9] A. Kato, et al., Plant Mol Biol, 27 (1995) 377–390; [10] J.S. Gebhardt, et al., Plant Mol Biol, 37 (1998) 99–108.
+a Phylogenetic attribution: A, animals; P, plants
+processing of the protozoan PTS2-carrying proteins (fructose-1,6-bi- sphosphate aldolase (FBP-A) and hexokinase (HK)) is doubtful [69]. However, comparing the amino acid sequences of processing sites re- vealed low similarity although a cysteine residue is highly prevalent [70]. The physiological importance of the processing site is unclear, because processing is neither required for the import of PTS2-carrying proteins (cf. Section 4.3) nor for the enzymatic activity of the enzyme. The unprocessed forms of plant thiolase and malate dehydrogenase (pMDH1) are enzymatically active and the 3D structure of processed and unprocessed pMDH1 is highly similar, although the processed form showed some positive cooperativity [71,72]. Conversely, the un- processed linker domain of protozoan FBP-A is an essential part of the interaction interphase between the monomers of this tetrameric en- zyme [69].
+3. The bipartite receptor
+3.1. The cognate receptor protein PEX7
+The receptor for PTS2-carrying proteins was first described in the yeast S.cerevisiae [73,74], but orthologous proteins were found in mammals such as humans [21,22,75,76], the plant A.thaliana [76], but also in other fungi such as Podospora anserina [77] or Magnaporthe or- yzae [78] (Fig. 2A). PEX7 belongs to the evolutionary wide-spread fa- mily of WD40-proteins sharing a cone-like structure composed of six or seven propeller-like blades each consisting of four β-strands [43,79]. In PEX7, the six central WD40 repeats sharing the conserved dipeptide motif WD (tryptophan-aspartate) are flanked at their N- and C-terminal ends by parts of a seventh repeat. These two parts of the seventh repeat unite into another four-stranded propeller blade, which closes the ring- like structure of PEX7 (Fig. 2B). The conserved structure of this protein family facilitated the prediction of the structure of human PEX7 by homology modelling [35,80,81]. Moreover, in human PEX7, the binding groove for PTS2 motifs was predicted based on the strong evolutionary conservation of this domain and a charge distribution complementary to the critical side of the PTS2 helix [35]. This model was experimentally validated and later confirmed by the resolution of the 3D structure of cargo-loaded Pex7p from S.cerevisiae [43]. In sum- mary, the PTS2 helix lies horizontally on top of PEX7 orienting the side chains of all conserved residues towards the surface of PEX7 (Fig. 2B, C), which explains the conservation pattern observed in PTS2 motifs. PEX7 acts as cycling receptor reaching the peroxisomal matrix and becoming re-exported [82–84].
+3.2. Different co-receptor proteins
+Interestingly, PEX7 is not able to bind PTS2-carrying proteins alone, but needs to cooperate with a second protein termed co-receptor
+[43,85,86]. In animals and plants, co-receptor function is performed by the PTS1 receptor PEX5 [76,87,88], but in some yeast species this function is performed by another protein, Pex20p (Y. lipolytica, H. polymorpha or N. crassa) [89–91], whereas in other yeast species such as S.cerevisiae even two proteins can support PTS2 binding, namely Pex18p and Pex21p [92,93] (Fig. 2A). These co-receptors were ori- ginally identified as peroxins that are essential for the import of PTS2- carrying proteins into peroxisomes, but had been primarily linked to the transfer of PEX7 to peroxisomes. However, they are directly in- volved in the recognition of PTS2 sequences by PEX7, as this interaction is stabilized by the binding of the co-receptor proteins and without co- receptor no stable PTS2-PEX7 complexes can be formed [43,85].
+All co-receptors share a highly conserved PEX7 binding domain (PEX7-BD) (Fig. 2A, box D2), but also some similarity among the N- terminal sequences was observed, including the presence of a conserved cysteine residue essential for the recycling of co-receptor proteins (cf. Section 4.4) (Fig. 2A, block D1). Finally, all co-receptors encode one to several copies of a pentapeptide sequence, including conserved tryp- tophan and tyrosine or phenylalanine residues (WxxxF/Y), each of which mediates the interaction with the membrane embedded peroxin PEX14 [94]. The number of these repeats differs from one copy in Pex18p or Pex21p of S.cerevisiae to 7 and 8 copies in PEX5 from H.sa- piens and A.thaliana, respectively [23].
+In the co-receptor PEX5, the PEX7 binding site is located upstream of the PTS1 binding domain comprised of seven tetratricopeptide re- peats with an evolutionary well-conserved structure [95]. In human (H.sapiens), hamster (C.cricetus) and guinea pig (C.porcellus), two iso- forms of PEX5 are generated by alternative splicing, which differ in an additional exon of 37 amino acids that occurs only in the long isoform (PEX5-L), but not in the short one (PEX5-S) (Fig. 2C) [87,88,96]. As this exon encodes most of the conserved PEX7 binding domain, only PEX5-L restores the import of PTS2-carrying proteins in cells lacking en- dogenous PEX5 [87,88,97]. Similarly, two isoforms were found in rice (O.sativa), whereas in A.thaliana and N.tabacum only the longer isoform is produced [76,98,99]. The contribution of PEX5 to PTS1- and PTS2- mediated protein import can be functionally separated in human PEX5, in which a point mutation in the TPR domain retains import of PTS2- carrying proteins [100], whereas a nonsense mutation in exon 9 causes a selective depletion of PEX5-L and thus only the peroxisomal import of PTS2-carrying proteins is affected [101]. Analogous effects were ob- served in Chinese hamster ovary (CHO) cells (C.cricetus), in which a point mutation in the PEX7 binding domain of PEX5 ablated PTS2- mediated import [102], but the expression of a PEX5 variant lacking the whole TPR domain was also able to specifically restore PTS2-dependent import [100,103]. Similarly, individual mutations in A.thaliana PEX5 affecting either only PTS2-mediated import (pex5-1) [76] or only PTS1- mediated import (pex5-2) [104] and a PEX5 variant lacking its TPR domain can restore PTS2-dependent protein import [103].
+5
+
+M. Kunze
+BBA - Molecular Cell Research 1867 (2020) 118609
+ 6
+(caption on next page)
+
+M. Kunze BBA - Molecular Cell Research 1867 (2020) 118609
+Fig. 2. A bipartite receptor complex consisting of PEX7 and a co-receptor recognizes PTS2 motifs: (A) the bipartite complex consists of the receptor PEX7 (left) and a co-receptor (right), which can either be of the PEX5-type (green), the Pex20p-type (blue) or the Pex21p-type (magenta). All co-receptors share a similar N-terminus (black box: Block D1) including a characteristic cysteine (red, bold) and a PEX7-binding domain with a conserved sequence (yellow box: Block D2); the C-terminal part of PEX5 (magenta) also harbors the PTS1-binding domain consisting of seven TPR repeats, which is not present in the other co-receptors; bold red: the sequence of proteins involved in the 3D structure of the trimeric complex from S.cerevisiae [43]; (B) the primary receptor PEX7 belongs to the WD40-domain family forming a 7-bladed propeller-like structure (left side), each consisting of four beta-strands. One of the blades is composed of one β-strand from the N-terminus (magenta) and three β-strands from the C-terminus (blue) of the protein, which allows uniting the ends and forming the cone-like structure interacting with the PTS2 helix (yellow); the key residues of PTS2 motifs interact with conserved residues on the surface of PEX7 as exemplified for the yeast complex (right side): RS1 (Arg4) interacts with D68 and E106, HS3 (His11) with Y178 and E222 and the hydrophobic residues LS2 (Leu5) and LS4 (Leu12) interact with hydrophobic residues of Pex7p; (C) human PEX5 is expressed in two isoforms, a long HsPEX5-L and a short HsPEX5-S form, differing by an exon (alternative exon E9, AE) generated by alternative splicing; the additional 37 amino acid-long sequence encodes most of the PEX7-binding domain (yellow); furthermore, the N-terminal sequence harbors eight PEX14-binding motifs, seven of which follow a WxxxY/F consensus motif (green boxes); (D) in the trimeric complex, the PTS2 helix is embedded between the receptor PEX7 and the co-receptor: the structure presents the yeast trimeric complex involving the PTS2 helix (blue), Pex7p (grey) and the C-terminus of Pex21p (red) (Pan, 2013).
+Hs Homo sapiens, Tb Trypanosoma brucei, At Arabidopsis thaliana, Cr Chlamydomonas reinhardtii, Um Ustilago maydis, Ms Malassezia sympodialis, Yl Yarrowia lipolytica, Kp Pichia pastoris (=Komagataella phaffii), Sc Saccharomyces cerevisiae; pictures of the proteins were generated by YASARA [206] based on the 3D structure PBD:3w15 [43].
+ In fungal species with independent co-receptor proteins, Pex5p proteins lack the Pex7p binding site and act exclusively as PTS1 re- ceptors. Nonetheless, co-receptors and Pex5p proteins share a con- served cysteine residue close to the N-terminus and one or several co- pies of the WxxxF/Y motifs as important functional elements and the N- terminal part of Pex18p can functionally replace that of Pex5p [105]. In S.cerevisiae, the two co-receptor proteins Pex18p and Pex21p have partially overlapping function with a moderate growth reduction of cells lacking Pex18p, when oleic acid is supplied as sole carbon source, whereas in the absence of both proteins cells cannot grow in media with oleic acid as sole carbon source [92]. Interestingly, Pex21p acts as constitutive co-receptor, whereas Pex18p is specifically upregulated upon exposition to fatty acids as carbon source, when much more peroxisomal activity is observed [106].
+3.3. Complete trimeric complex
+The assembly of a PTS2-carrying protein, PEX7 and a co-receptor results in the formation of a trimeric complex, of which a prototypic structure has been resolved for the complex from S. cerevisiae consisting of the N-terminus of thiolase (Fox3p), Pex7p and the C-terminal part of Pex21p [43]. However, the high evolutionary conservation of the key structural elements (PEX7 and PEX7-BD) suggests that this structure is representative for such trimeric complexes even when another co-re- ceptor is involved. In the 3D structure, the PTS2 α-helix is embedded into the groove of Pex7p and the upper side is shielded by a helix of the co-receptor, which involves direct physical contacts between these helices (Fig. 2D), although other residues of Pex21p stabilize the in- teraction as well.
+More specifically, the interaction phase between the PTS2 and PEX7 involves (i) an ionic interaction between the conserved arginine (RS1) and two negatively charged residues in ScPex7p (D61 and E106), (ii) van der Waals interactions between the large hydrophobic residues at S2, X3 and S4 and a hydrophobic patch at the other side of the PTS2- binding groove and (iii) hydrogen bonds between the conserved histi- dine at position S3 and two residues of the binding groove (Y178 and E222). Overall, these interactions have been correctly predicted by homology modelling of human PEX7, but the α-helix appears slightly turned within the groove [35]. Experimental validation in the yeast and the human system resulted in similar observations such as a cross- complementation between the mutation HS3E in the PTS2 and the charge-inverting mutation at the interacting glutamate (ScE222R/ HsE200R) [35,43]. The interaction between Pex7p and Pex21p involves the conserved PEX7-BD of Pex21p and an elongated stretch running down one side of Pex7p (Fig. 2D, front and side). The PEX7-BD involves several highly conserved residues, among which one serine is highly critical as mutations at this position ablate the interaction in many species and across co-receptor proteins (e.g. CcPEX5S214F [43], ScPex18pS230F [107], ScPex21pS234F [107], YlPex20pS280F [107]). On
+the other side, a highly conserved glutamate residue was found on top of human PEX7, which is close but clearly separated from the predicted PTS2-binding groove and the substitution of which (E287R) ablates the interaction between PEX7 and PEX5 [35,85]. Interestingly, the con- served serine and glutamate residues directly interact in the yeast tri- meric complex to support the interaction, which might explain that PEX7 and co-receptors from diverse species can interact with each other in the yeast two-hybrid assay (e.g. ScPex21p/HsPEX7 [108], YlPex20p/ ScPex7p [107] or NcPex20p/ScPex7p [89]). ScPex21p also has direct contact with the PTS2 helix, because the conserved hydrophobic re- sidues (LS2, IX3 and LS4) are positioned at the interphase between Pex7p and Pex21p, whereas an additional ionic interaction occurs be- tween a conserved aspartate in Pex21p (D205) and lysine at position X4 (KX4). However, this interaction is presumably not as critical, because position X4 is not evolutionary conserved [35], whereas D205 is. Moreover, other residues at the PEX7-averted positions of the PTS2 helix are hardly conserved and tolerate property-changing mutations without destroying the functionality of the PTS2 [35], which might indicate that an alternative mechanism such as conformational changes might confer part of the stabilizing effect of the co-receptor. In S.cere- visiae, the two co-receptor proteins mediate substrate specificity be- tween the PTS2 of thiolase (Fox3p), which is predominantly recognized by Pex18p [92], and the PTS2 of Gpd1p, which is recognized by Pex21p [106]. Moreover, HpPex20p alone displays some affinity to the PTS2 of HpAMO in vitro [91].
+In summary, selection of PTS2 motifs is obtained by combining the weak but specific primary interaction between PEX7 and conserved residues of putative PTS2 motifs, whereas sufficient binding strength with cargo proteins is obtained by embedding of the PTS2 helix into a bipartite receptor complex. Surprisingly, this direct involvement of the co-receptor in cargo binding has not been depicted in several recent reviews, in which the PTS2-binding domain and the PEX5-binding do- mains were indicated on opposite sides of PEX7 (e.g. [2,109]).
+4. The transport cycle
+The transport of proteins harboring a PTS2 involves several steps: (i) the formation of a transport-competent cargo-receptor complex (Fig. 3A), (ii) docking and translocation of this complex across the peroxisomal membrane, (iii) release of the cargo protein inside per- oxisomes, and (iv) recycling of the components of the bipartite receptor to the cytosol (Fig. 3B and C). Presumably, PTS2-carrying proteins are translocated across the peroxisomal membrane in a folded state as well, because a protease fused to a PTS2-carrying reporter protein reaches full activity in the cytosol before being imported [110].
+4.1. Assembly of the receptor complex
+The import of PTS2-carrying proteins starts with the specific
+7
+
+M. Kunze
+BBA - Molecular Cell Research 1867 (2020) 118609
+Fig. 3. The import process for PTS2-car- rying proteins: (A) sequential assembly of the PTS2 helix with PEX7 and subsequent binding by the co-receptor, which stabi- lizes the interaction and initiates the transport to peroxisomes; (B) in S.cerevisiae, using Pex21p as a co-receptor protein, the assembled trimeric complex docks to the docking and import ma- chinery consisting of Pex13p, Pex14p and Pex17p and the cargo protein gets trans- located across the peroxisomal membrane mediated by the pore-forming capacity of Pex21p and Pex14p to allow the transfer; Pex8p is involved in cargo release, but no processing of proteins occurs; subse- quently, the co-receptor Pex21p is ubi- quitinated by the ubiquitination machinery (Pex22p + Pex4p and Pex2p + Pex10p + Pex12p) transferring ubiquitin to the conserved cysteine (Cys5) of Pex21p; Pex21p and Pex7p are re-ex- ported into the cytosol by the extraction machinery (Pex15p + Pex1p + Pex6p) hydrolyzing ATP; finally, ubiquitin is re- moved from Pex21p by a ubiquitin hy- drolase (Ubp15p); (C) in H.sapiens, using PEX5 as a co-receptor protein, the as- sembled trimeric complex docks to the docking and import machinery consisting solely of PEX13 and PEX14 and the cargo protein gets translocated across the per- oxisomal membrane mediated by the pore-forming capacity of PEX5 and espe- cially PEX14 to allow the transfer; cargo proteins are released either by a con- formational change in PEX5 induced by a luminal domain of PEX14 or by proces- sing the N-terminal sequence of the cargo protein; subsequently, the co-receptor PEX5 is ubiquitinated by the ubiquitination machinery (E2D1,2,3 and PEX2 + PEX10 + PEX12) transferring ubiquitin to the conserved cysteine (Cys11) of PEX5; PEX5 and PEX7 are re-exported into the cytosol by the extraction ma- chinery (PEX26 + PEX1+ PEX6) hydro- lyzing ATP; finally, ubiquitin is removed from PEX5 by a ubiquitin hydrolase (USP9X).
+ 8
+
+M. Kunze
+interaction between the PTS2 motif and PEX7 in the cytosol, which involves all conserved residues of the PTS2 consensus sequence. However, this interaction is weak and hardly detectable on its own [43,86], but needs further stabilization by the subsequent binding to the co-receptor, thus generating a stable trimeric complex [43,85] (Fig. 3A). This process was demonstrated by the dose-dependent sta- bilizing effect of ectopically expressed PEX5 on the apparent interaction strength between PEX7 and a PTS2-carrying cargo protein in the mammalian two-hybrid system [85]. Moreover, the interaction be- tween isolated ScPex7p and its predominant substrate thiolase (Fox3p) was dependent on the co-receptor ScPex21p [43]. This sequential model of assembly is supported by the finding that cargo binding is a prerequisite for the interaction between PEX7 and the co-receptor PEX5, because PEX7 variants incapable of cargo-binding do not interact with PEX5 [85]. Importantly, this dysfunction can be overcome by massive overexpression of the cargo protein or by expression of a cargo variant harboring a compensatory mutation in the PTS2, which de- monstrates that these PEX7 variants are able to bind PEX5. Moreover, PEX7 and PEX5 did not interact without cargo proteins in the mam- malian in vitro system [111] and the interaction between human PEX5 and PEX7 was not detectable by a bacterial two-hybrid assay, pre- sumably because in such cells PTS2-carrying proteins are not expressed to a sufficient extent [112]. Similarly, in S.cerevisiae cells lacking the predominant PTS2-carrying protein Fox3p, the interaction between Pex18p and Pex7p was hardly detectable [86]. As co-receptor binding is essential to initiate the peroxisomal transport of PEX7, receptor variants that cannot bind a cargo do not reach peroxisomes [85]. Accordingly, in an in vitro import system in rat peroxisomes, addition of unlabeled PTS2-carrying substrate proteins can effectively displace the corre- sponding labelled substrate proteins from PEX7. However, this effect does not occur when co-receptor PEX5 is added to the substrate-PEX7 assembly mixture prior to the cold competitor [113]. Presumably, binding to cargo-loaded PEX7 induces a conformational change in the co-receptor facilitating the interaction of its N-terminal part with pro- teins of the docking site (PEX13 and PEX14) in the peroxisomal mem- brane. This mechanism guarantees that only cargo-loaded receptor complexes are targeted to the peroxisomal membrane, which is en- ergetically beneficial as the extraction of co-receptor proteins from the peroxisomal membrane is the main energy-consuming step of the re- ceptor cycle [24]. However, when a transport of the trimeric complex to peroxisomes is impossible such as in PEX14-deficient CHO cells, the apparent interaction strength of the trimeric complex is even increased, which reflects the specific disassembly of the complex within peroxi- somes [111].
+Although most PTS2 motifs are positioned close to the N-terminus, internal PTS2 motifs can also form a trimeric complex as demonstrated in the yeast and the mammalian two-hybrid assays using proteins, in which the PTS2 is not located close to any of the termini [35,85,92,114]. Another indication for the functionality of internal PTS2 motifs is the fact that the addition of a 14 kD domain to the N- terminus of a PTS2-carrying protein does not prevent its import in an in vitro import system [115]. Finally, one protein identified in peroxi- somes of A.thaliana (TTL, c.f. Table 1) harbors a PTS2 in the middle of the protein sequence, but probably within a flexible linker between two folded domains [52,116].
+The assembly of the trimeric complex and its transfer to the per- oxisomal membrane is also the critical step for piggy-back-mediated import of oligomeric PTS2-carrying proteins. This has been demon- strated in S. cerevisiae [117] as well as in pumpkin peroxisomes for thiolase [118] and in tobacco cells for a heterologously expressed re- porter protein (chloramphenicol-acetyl-transferase) equipped with the N-terminus of thiolase [36]. Moreover, hetero-oligomeric co-import was demonstrated for the nicotinamidase Pnc1p, which depends on the import of the PTS2-carrying protein Gpd1p specifically induced under stress conditions [106,119,120], when Gpd1p is targeted to peroxi- somes [121].
+BBA - Molecular Cell Research 1867 (2020) 118609 4.2. Transport to the surface and across the membrane
+The N-terminal part of the co-receptor interacts specifically with the two membrane embedded peroxins PEX13 and PEX14, but most in- formation is available for PEX5 and has been obtained in the context of PTS1-dependent import. However, also PEX7 interacts with PEX13 and PEX14 although this binding itself is not sufficient to induce perox- isomal transport of the isolated receptor. In S.cerevisiae, Pex7p and the co-receptors (Pex18p and Pex21p) interact with different regions in the N-terminal part of Pex13p, and deletion of the Pex7p-binding ex- clusively blocks PTS2-mediated protein import [93]. Interestingly, Pex7p binding is independent of the co-receptors, but the interaction between Pex13p and each of the co-receptors depends on the presence of Pex7p [93] supporting the idea of a Pex7p induced conformational change in the co-receptors. Moreover, ScPex14p directly interacts with Pex7p independently of Pex18p or Pex21p [122,93]. The interactions between these peroxins were also detectable, when the proteins origi- nate from distantly related yeast species such as ScPex13p and Yl- Pex20p [107] or ScPex7p with NcPex13p and NcPex14p [123], which suggests the presence of evolutionary conserved interaction domains. In mammals, PEX7 interacts with the N-terminus of PEX13 as well [100] and with PEX14 [124], whereas the co-receptor PEX5 binds PEX14 via seven copies of the WxxxF/Y domain acting as independent binding sites for the N-terminus of PEX14 [102,125] and with the SH3-domain of PEX13 [126]. PEX14 and PEX13 were found to compete for over- lapping binding sites in PEX5 [126] and PEX14 was suggested as pri- mary docking site for PEX5 [127]. However, the PEX5-binding domain of PEX14 was also found to be oriented towards the luminal side of rat peroxisomes, which presumably represents an intermediate state en- abling a specific interaction with a membrane embedded fraction of PEX5 [128]. Similarly, in A.thaliana, PEX7 interacts with an N-terminal domain of PEX13 [129], whereas PEX5 binds to the N-terminal part of PEX14 via the WxxxF/Y motifs [109,130,131]. However, no interaction was detectable between PEX14 and PEX7 in the heterologous yeast two- hybrid assay [131].
+In in vitro experiments using semi-permeabilized mammalian cells, it was demonstrated that the transport is supported by chaperones of the HSC70 and the HSP40 type [115,132] similar to the import of PTS1- carrying proteins [133]. In an elegant in vitro import system into rat peroxisomes, cargo import was independent of exogenous or en- dogenous energy, but could be increased by stimulating the extraction of already embedded co-receptors [134]. Moreover, the import was time and temperature dependent and required specifically the long isoform of PEX5 [132,134]. Similarly, the import of PEX7 was in- dependent of exogenous energy and a block in ATP hydrolysis, but required the long isoform of PEX5 [132,134]. PEX7 not only reaches into the peroxisomal lumen, but becomes part of the soluble fraction of peroxisomes [83]. In in vitro import experiments in plant peroxisomes from pumpkin, the PTS2-carrying protein thiolase was imported more slowly than its PTS1-carrying counterpart glycolate oxidase and its import efficiency was not reduced by the addition of glycolate oxidase, but rather augmented [118]. Exogenously added zinc increased the import efficiency similar to ATP, but the observed ATP dependency can probably be retraced to the necessity of recycling bipartite receptors, as neither PEX7 nor PEX5 were added exogenously in these experiments.
+The detailed mechanism by which cargo-loaded receptor proteins translocate across the peroxisomal membrane is still unclear [24], but is expected to differ from the translocation of proteins into mitochondria, chloroplasts and the ER because of the folded state of the transported proteins. Nowadays, models for PTS1-mediated protein import are centered on protein complexes comprised of an unclear ratio of PEX5 and PEX14, but the import mechanism for bipartite receptor complexes is presumably similar. PEX5 and other co-receptor proteins share one to multiple PEX14-binding sites, suggesting that the inherently un- structured N-terminal part of the co-receptors is sequentially inserted into the peroxisomal membrane by progressive saturation of WxxxY/F
+9
+
+M. Kunze
+BBA - Molecular Cell Research 1867 (2020) 118609
+receptor does not increase processing efficiency [134] suggesting that these two processes are not coupled directly. Interestingly, during in vitro import into rat peroxisomes, only mature thiolase was found in the matrix fraction independent of the ubiquitination status of the co-re- ceptor, whereas processing inside peroxisomes was markedly delayed relative to the import process [134]. In A.thaliana, a trimeric complex consisting of PTS1-PEX5-PEX14 was detected, but not a tetrameric one consisting of PTS2-PEX7-PEX5-PEX14. However, it is unclear, whether this actually indicates differences in the state of binding to PEX14 or whether a complex of four elements occurs less frequently than a complex of three [130].
+4.3.2. Specific function of the intraperoxisomal peripheral membrane protein Pex8p
+Pex8p is specifically present in yeast species and its deficiency in- terferes with the import of PTS1- and PTS2-carrying proteins [144–147]. Although Pex8p encodes PTS1 and PTS2 motifs in most species, its transport into peroxisomes most probably is primarily in- dependent of the PTS1- or PTS2-dependent pathways [49,147,148]. However, PpPex8p can induce cargo release of PTS1-carrying proteins from PpPex5p [149], which requires reduced conditions [137], but interacts with ScPex7p and ScPex13p as well [49]. In Y. lipolytica, Pex8p interacts with the co-receptor Pex20p [145] and in its absence, Pex20p is retained within peroxisomes, which might reflect a block in the export cycle due to incomplete cargo release [145].
+4.3.3. Processing of PTS2-carrying proteins
+PTS2-carrying proteins are processed inside peroxisomes in many species, which represents a potential mechanism for release of the protein from the bipartite receptor. However, in a rat in vitro import system, the deletion of the processing site did neither have any detri- mental effects on the import efficiency of PTS2-carrying reporter pro- teins, nor on cargo release or the recycling of PEX7 [113]. Moreover, in mice lacking the processing peptidase TYSND1, PTS2-carrying proteins displayed peroxisomal import, although the efficiency appeared re- duced [141], but to a different extent for different proteins.
+However, it is difficult to decide, by which mechanism cargo pro- teins are actually released, because taxon-specific differences might exist. Exemplarily, Pex8p mediated release can occur exclusively in yeast species, but import is possible in the absence of processing. Moreover, the simple alternative of either processing or Pex8p-medi- ated release is implausible, because in Y. lipolytica, in which the PTS2- carrying protein thiolase is processed, Pex8p exists as well [145], whereas in protozoa, PTS2-carrying proteins such as fructose-1,6-bi- sphosphate aldolase (FBA), are not processed, but a Pex8p-homolog has not been found, either. An interesting difference between these models is the fate of the N-terminal peptide generated by processing, because substrate release by a conformational change followed by processing would retain the peptide inside peroxisomes, whereas a release by processing would keep the peptide within the bipartite receptor and thus could be subject to re-export.
+4.4. Recycling of receptor proteins
+After the release of the cargo, proteins making up the bipartite re- ceptor need to be recycled to the cytosol for another round of import. This process has been extensively studied for Pex5p/PEX5 in the con- text of PTS1-mediated import in yeast and mammals (Fig. 3C). The multi-step process is composed of a specific monoubiquitination step at a conserved cysteine close to the N-terminus followed by the specific extraction of PEX5 from the peroxisomal membrane [150]. Whereas the process supposedly is the same for PEX5 when acting as co-receptor (Fig. 3C), the details have not been studied to the same extent for the co-receptor proteins Pex18p, Pex21p and Pex20p (Fig. 3B). However, the presence of the conserved cysteine in the N-terminal part of these proteins (cf. Fig. 2A, Block D1) is highly suggestive and available
+peptides with PEX14 proteins embedded in the membrane. In that way, the co-receptor would be progressively pulled into the membrane in a thermodynamically favorable process. In the next step, the cargo- binding unit of the bipartite receptor (PEX7 together with the folded PEX7-BD of the co-receptor), in a complex with a folded cargo protein passes the peroxisomal membrane, but the details of this step are completely unclear. PEX14 was shown to form homooligomers, which in the case of mammalian PEX14 requires its coiled-coil domain [135]. However, the stoichiometry of co-receptor:PEX14 complexes might differ among species, because in higher animals and plants, co-re- ceptors have many (up to 8) copies of the WxxxF/Y motif, whereas co- receptors of unicellular organisms (Pex18p/Pex21p and Pex20p) and Pex5p contain only one or a few copies thereof [23]. Accordingly, in the rat, PEX14 appears in excess in isolated peroxisomal PEX14:PEX5 complexes with a molar ratio of about 5:1 [136]. Purified human PEX5 can also form homooligomers [94] and in yeast, Pex5p and Pex20p appear in oligomeric structures [91,137]. In an in vitro system, it was demonstrated that the transfer of PTS2-carrying proteins is coupled with a transient opening of the membrane [138]. Immunopurified im- port complexes for PTS2-carrying proteins, composed of the yeast docking complex (Pex13p, Pex14p and Pex17p) in a substrate-loaded form and thus also including the PTS2-carrying protein Fox3p, Pex7p and Pex18p, were inserted into liposomes and subjected to electro- physiological investigations. In single-channel recordings from lipid bilayers containing import complexes as described above it was found that the minimal basic ionic flux was transiently markedly increased upon exogenous addition of Pex7p together with PTS2-carrying cargo protein (Fox3p). This resembles the situation of Pex5p-mediated translocation of PTS1-carrying proteins, which has been described previously [139], and thus corroborated the basic similarity of PTS1- and PTS2-mediated import mechanisms. Importantly, these results also confirmed that in S.cerevisiae the co-receptor Pex18p and the PTS1-re- ceptor Pex5p can form independent transport units together with pro- teins of the docking machinery, but it is unclear, whether these com- plexes are completely separated in wildtype cells. Interestingly, in this type of experiment, another type of complex resembling an “empty” state was isolated as well, in which Fox3p and Pex7p were not included. In vitro experiments in rat peroxisomes suggest that PEX7 also becomes embedded in the membrane, but does not necessarily become a real matrix protein detached from the membrane [113]. However, PEX7 obtains a protease-protected state in a temperature-dependent manner [140].
+4.3. Release of the cargo inside peroxisomes
+When cargo-loaded bipartite receptors reach the peroxisomal ma- trix, the cargo is released, which has been either linked to (i) a con- formational change in the co-receptor, or (ii) a specific function of the peroxin Pex8p, or (iii) the processing of PTS2-carrying proteins inside peroxisomes [141].
+4.3.1. Conformational change
+As the co-receptor PEX5 has to release PTS1- and PTS2-carrying proteins inside peroxisomes a common underlying mechanism would be effective. The interaction of the PTS1-carrying protein catalase with PEX5 is negatively affected or even prevented by binding to the N- terminal domain of PEX14 [142]. This effect depends on the two most C-terminal WxxxY/F motifs of PEX5 and was interpreted as cargo-re- leasing conformational change induced at the inner side of peroxi- somes, where the N-terminus of PEX14 is located. Accordingly, in this model, PTS2-carrying proteins are released upon PEX14 binding as well, whereas the processing occurs after the release [113]. This is in line with the observation that the release of cargo proteins is not de- pendent on the ubiquitination state of the co-receptor PEX5 [134] and monoubiquitinated PEX5 forms as good trimeric complexes as the non- ubiquitinated one [143]. Conversely, extraction of the bipartite
+10
+
+M. Kunze
+BBA - Molecular Cell Research 1867 (2020) 118609
+not conserved.
+Interestingly, TYSND1 is able to process itself rendering the pro-
+cessing peptidase more sensitive to degradation by LonP2 [161,162]. Another type of regulation was shown for DEG15, which can convert from the monomeric to a dimeric state mediated by a calmodulin-like protein, AtCML3, interacting with a short N-terminal α-helical domain in a calcium-dependent manner [163]. Without the dimerization do- main DEG15 is not active supporting the importance of dimerization, but the selective depletion of AtCML3 did not ablate processing [163].
+The fate of the N-terminal peptide released upon processing is un- clear, but the partially peroxisomal peptidase insulin-degrading enzyme is able to degrade such a peptide as demonstrated for thiolase [164].
+4.6. Stability of the bipartite receptor proteins
+PEX7 and the co-receptor proteins are involved in dynamic pro- cesses during the transport cycle including the exposition to mechanical stress during extraction from the membrane. Thus, their structure might be excessively distorted leading to dysfunction, which could interfere with the whole receptor cycle or render the peroxisomal membrane leaky. Accordingly, several quality control mechanisms have been de- scribed. PEX7 amply interacts with the components of the chaperonin complex and a quality control mechanism involving the Cul4A-DDB1- Rbx1 E3-ligase system tags misfolded PEX7 for proteasomal degrada- tion in an NEDD8-dependent manner [165]. In plants, a similar me- chanism has been described involving the small GTPase-interacting protein RabE1c [166].
+Dysfunctional co-receptor proteins are usually degraded by the proteasome as well, but this process requires polyubiquitination at ly- sine residues in proximity to the N-terminus. Polyubiquitination has been shown for PpPex20p upon interference with normal export [167], but also for ScPex18p, which is polyubiquitinated in a ScPex2p- and ScPex10p-, but also in a Ubc4p-dependent manner, and degraded by the proteasome [153,154]. However, ScPex18p and YlPex20p are in- herently instable, but accumulate upon interference with peroxisomal extraction [145,154,168]. Finally, excessive mono- and poly- ubiquitination of proteins on the surface of peroxisomes has been linked to the degradation of the whole organelle by pexophagy [169,170].
+5. Evolutionary aspects of the PTS2 mediated import mechanism
+5.1. Loss of the PTS2-carrying import route across the phylogenetic tree
+Although the number of PTS2-carrying peroxisomal matrix proteins is low in general, ranging from two known proteins in S. cerevisiae up to 30% in A.thaliana [171], a defective import system for these proteins usually affects several metabolic pathways as PTS2-containing proteins participate in different metabolic pathways. The common denominator across all taxa is the PTS2 motif in thiolase (full name: 3-keto-acyl-CoA thiolase) performing the last step in β-oxidation, which is exclusively peroxisomal in the majority of species. Accordingly, a defect in the utilization of fatty acids is common upon ablation of PTS2-mediated import except for species, in which either a major part of fatty acid degradation is performed in mitochondria (e.g. chordates) or another, PTS1-containing enzyme with thiolase activity exists in peroxisomes (e.g. SCPx). In contrast, many other metabolic pathways involving PTS2-carrying proteins are only relevant in one phylogenetic branch such as the biosynthesis of ether-phospholipids and α-oxidation in an- imals, which depend on AGPS and phytanoyl-CoA hydroxylase (PHYH), respectively [1] (cf. Table 1). Of note, occasionally some orthologues of an enzyme are imported in a PTS2-dependent manner in one branch of the tree of life, but in a PTS1-dependent manner in another branch, which is most famously the case for the key-enzymes of the glyoxylate cycle, malate dehydrogenase (MDH) and citrate synthase (CIT), which harbor a PTS2 in plants, but a PTS1 in yeast [172].
+The existence of two rather independent types of targeting signals
+experimental evidence suggests a similar mechanism. Whenever any of the peroxins involved in recycling is mutated, recycling of the co-re- ceptor is blocked and PTS2-mediated import is ablated. The evidence for the different co-receptors and for PEX7 is summarized below, but for details on Pex5p/PEX5 extraction the reader is referred to excellent reviews covering the topic for different species (cf. [109,151,24,150]).
+In yeast, monoubiquitination is performed by the cooperative ac- tivity of a ubiquitin-conjugating enzyme of the UBC family such as ScPex4p and specific ubiquitin ligases of the RING-domain protein fa- mily (ScPex2p, ScPex10p and ScPex12p). The extraction of ubiquiti- nated Pex5p (Ubi-Pex5p) is performed by two AAA-ATPases (ScPex1/ ScPEX6), which are associated with the peroxisomal membrane via an integral membrane protein (ScPex15p). After extraction, Ubi-Pex5p is reconverted to Pex5p by the specific ubiquitin hydrolase ScUsp15p in the cytosol [152]. In spite of the unified peroxin nomenclature [5] several orthologues proteins in plants and animals have different names (E2D1,2,3, previously called UbcH5a,b,c, is the functional equivalent to Pex4p + Pex22p, Pex15p = HsPEX26, ScUsp15p = HsUSP9X) and sometimes additional proteins have been identified.
+In S.cerevisiae, recycling of ScPex18p requires a conserved cysteine [153], which is ubiquitinated by Pex4p and the RING-peroxins Pex2p and Pex10p [154]. Similarly, recycling of PpPex20p requires the cor- responding cysteine [155]. Experiments in human and rat in vitro sys- tems demonstrated that the export of PEX5-L was temperature- and energy-dependent [140].
+In contrast, PEX7 does not harbor a conserved cysteine, but the protein is effectively re-exported from peroxisomes [83,113]. Although PEX7 and PEX5 are re-exported at different rates, PEX7 export is mediated by a ubiquitin and ATP dependent process and requires the export of PEX5 [83]. In the peroxisomal membrane of CHO cells, PEX7 interacts with PEX2, PEX13 and PEX14, but PEX14 binds PEX5-L much more effectively [140]. Interestingly, extending yeast or human PEX7 with a large reporter protein at the N-terminus ablates its export [82,156], whereas human PEX7-EGFP, but not EGFP-PEX7 was found in peroxisomes in another study [157]. However, when the N-terminal tag was small (e.g. myc), the protein was predominantly found in the cytosol in yeast and human fibroblasts [20,21]. Only in plants, a spe- cific interaction between AtPEX7 and a peroxin involved in ubiquiti- nation, AtPEX12, was demonstrated and peroxisomal transport requires a functional import machinery for its localization to peroxisomes [158].
+4.5. Processing of PTS2-carrying proteins
+The first description of an endopeptidase activity capable of pro- cessing PTS2-carrying proteins from castor bean endosperm or guinea pig peroxisomes appeared in the late 1990s, describing enzyme activ- ities that act on in vitro translated malate dehydrogenase (gMDH) or human AGPS, respectively [61,159]. The processing peptidases were identified as AtDEG15 in plants [160] and as MmTYSND1 in mice [161], and the processing sites obtained in vitro [70,161] were identical to those identified previously by biochemical means (cf. Table 2). However, TYSND1 is not restricted to PTS2-carrying proteins, but performs internal processing of other peroxisomal proteins imported by the PTS1-mediated import route such as acyl-CoA oxidase 1 (ACOX1), D-bifunctional enzyme (D-BP, HSD17B4) or sterol carrier-X protein (SCPx) [161]. Depletion of TYSND1 by siRNA prevented the processing of the enzymes mentioned above [162] and plants lacking DEG15 did not process PTS2-carrying proteins [163]. Both peptidases belong to the HtrA/DegP family of proteases and the enzymatic activity of TYSND1 is effectively inhibited by N-ethylmaleimide (NEM) blocking all sulfhy- dryl-groups of proteins, but also by other compounds and ions [61,161]. The activity of DEG15 is negatively affected by various peptidase inhibitors specific for the serine/cysteine type and for the cysteine-only type [159]. Accordingly, a compilation of PTS2-carrying proteins suggested that PTS2-carrying substrates of DEG15 encode a cysteine [70], but in some orthologues of these proteins the cysteine is
+11
+
+M. Kunze
+BBA - Molecular Cell Research 1867 (2020) 118609
+PTS2-carrying proteins are considered as PBDs in humans, although the phenotype is less severe than a complete loss of peroxisomal activity.
+5.1.1. Human diseases due to defects in the PTS2-mediated import pathway
+Patients with a specific defect in the import of PTS2-carrying pro- teins have been identified among cohorts of patients suffering from the inherited human disease rhizomelic chondrodysplasia punctata (RCDP). This disease is characterized by a shortening of the proximal long bones (rhizomelia) and punctual calcifications of cartilage and joints (chon- drodysplasia punctata), but also joint contractures, cataracts, and re- tardation in growth or mental development are common features [179]. Two of five complementation groups are directly linked to PTS2- mediated import, as mutations in PEX7 cause type-1 RCDP (RCDP1) and mutations specifically affecting the long isoform of PEX5 lead to type-5 RCDP (RCDP5). The complementation groups RCDP2, 3 and 4 harbor mutations in genes encoding biosynthetic enzymes for ether- phospholipids [179]. A plethora of variants in PEX7 have been de- scribed to cause the disease, but only one genetic aberration has been found for RCDP5 so far (Table 3). The latter is caused by a mutation in the additional exon (E9) of PEX5, which occurs only in the long isoform [101]. The three best-characterized PTS2-carrying proteins encoded in the human genome allow a rough estimation of the biochemical foun- dation of the phenotype in RCDP. These are 3-keto-acyl-CoA thiolase (ACAA1), PHYH and AGPS (cf. Table 1). As all RCDP-patients share a defect in ether-lipid biosynthesis, the similarity of symptoms suggests that the lack of ether-lipids, due to the absence of AGPS activity in peroxisomes, is the primary cause of the symptoms in RCDP1 and RCDP5. In contrast, the physiological consequences caused by a defect in PHYH are milder and have been designated as Refsum Disease (RD) [62]. These symptoms are buried under those caused by the ether-lipid deficiency in RCDP, except for a few patients with mild RCDP pre- senting some symptoms characteristic for RD [180,181]. In this context, a new classification of adult Refsum disease (ARD) patients harboring a point mutation in PEX7 has been suggested and the name type-2 ARD was proposed for this syndrome [182]. The consequences of a lack of 3- keto-acyl-CoA thiolase (ACAA1) is even less prominent, because in the liver and many other tissues a second enzyme with thiolase activity is expressed, namely sterol-carrier-protein-X (SCPx), which encodes a PTS1 [183].
+Next to the life threatening symptoms described above, an addi- tional neurodevelopmental phenotype was linked to RCDP, namely autism. Starting from an individual observation [184], the link to RCDP was strengthened, when in three siblings suffering from autism spec- trum disorder a mutation in PEX7 was found by exome sequencing [185]. Finally, retrospective screening of clinical records revealed that among a cohort of RCDP patients, some patients with a milder form of RCDP had also been diagnosed with neurodevelopmental abnormalities including autism [185–187].
+In spite of RCDP being a devastating disease, the symptoms of af- fected patients are on average less severe than those of patients suf- fering from a general PBD, in which all peroxisomal functions are lost [188]. The symptoms of those patients have been summarized as Zell- weger syndrome spectrum (ZSS) disorder [189] presenting with a broad variety of symptoms primarily affecting liver and kidney, but also the brain and other organs [190]. In addition, patients suffer from hypo- tonia and often die within the first years of life although less severely affected patients have been described during the last years. However, other symptoms observed in PBD patients are found in RCDP patients as well, such as facial dysmorphism, physical and mental retardation and early death of the patients. Thus, PBD-patients affected specifically in PTS2-mediated protein import are symptomatically different from all other patients of this type of disorder.
+5.1.2. Phenotypes associated with a loss of the PTS2-mediated import pathway
+Mouse models for RCDP1 have been generated by inactivating the 12
+Table 3
+Mutations causing rhizomelic chondrodysplasia punctata (RCDP).
+ Gene
+PEX7 Missense
+Nucleotide change
+A43C
+Protein change
+T14P
+S25F
+H39P
+G41V
+L70W
+W75R
+W75C
+C86Y
+W95G
+H110R
+D134N
+S164P
+G217R
+A218V
+H241L
+S262L
+H285R
+Y20X
+Y40X
+Q112X
+Y115X
+Q126X
+S132X
+W206X
+R232X
+L292X
+P15fs
+P142fs
+T143fs FDW64- 66VALR
+Del aa124–132 fs
+C170del
+G7fsX50
+Q291ins
+IVS1 + 1 (G/C) IVS1 + 1 (G/A) IVS1 + 3 (G/C) IVS9 + 1 (G/C) IVS2 + 1 (G/C)
+Disease
+Refsum disease, RCDP
+RCDP
+RCDP
+RCDP
+RCDP
+RCDP
+RCDP, autism X RCDP
+RCDP RCDP RCDP RCDP RCDP RCDP RCDP RCDP RCDP RCDP RCDP RCDP RCDP RCDP RCDP RCDP RCDP RCDP RCDP RCDP RCDP RCDP
+RCDP RCDP RCDP
+RCDP
+RCDP RCDP RCDP RCDP RCDP RCDP
+RCDP
+Ref.
+[1, 2]
+[3, 4] [3] [3] [5] [6] [4] [5] [5] [3] [5] [3] [3, 5] [3, 5] [5] [5] [5] [5]
+[3]
+[5] [3] [3]
+[5] [3] [3] [3] [5]
+[5] [5] [3] [5] [2, 5]
+[3] [5] [3] [5] [3, 5] [3]
+[7]
+ Nonsense
+Deletion
+Insertion Splicing
+PEX5
+C74T
+A116C
+G122C
+T209G
+T223C
+G225C
+G257A
+T283G
+A329G
+G400A
+T490C
+C649T
+C653T
+A722T
+C785T
+A854G
+C60A
+C120G
+C339T
+T345G
+C376T
+C395A
+G618A
+C695T
+T875A
+Del. 45 (GGGACGCC) Del.426A
+Del.429T Del.195–196 (CT)
+Del.370–396 (27ntd) Del.842 (C) Del.509–511 (TGT) Ins.52 (GGGACGCC) Dupl.12–18 ( GTGCGGT) Ins.871-873CAA IVS1 + 1 (G/C) IVS1 + 1 (G/A) IVS1 + 3 (G/C) IVS9 + 1 (G/C) IVS2 + 1 (G/C)
+722dupA
+or G225T
+ [1] G.A. Jansen, et al., Hum Mutat, 23 (2004) 209–218; [2] D.M. van den Brink, et al., Am J Hum Genet, 72 (2003) 471–477; [3] N. Braverman, et al., Hum Mutat, 20 (2002) 284–297; [4] T.W. Yu, et al., Neuron, 77 (2013) 259–273; [5] A.M. Motley, et al., Am J Hum Genet, 70 (2002) 612–624; [6] P. Mohamadynejad, et al., Gene, 518 (2013) 461–466; [7] T. Baroy, et al., Hum Mol Genet, 24 (2015) 5845–5854.
+destining soluble proteins for peroxisomal import is remarkable. However, in some species such as the nematode Caenorhabditiselegans, the fly Drosophila melanogaster and the diatom Phaeodactylum tri- cornutum none of the proteins usually found in peroxisomes encodes a PTS2 [173–176]. In nematodes and diatoms, no PEX7 was found, whereas a PEX7 homolog was identified in the fly [177] although PTS2- carrying reporter proteins were not transported into peroxisomes [173]. Moreover, in chromalveolates PEX7 and the PEX5 variant with the specific PEX7-binding site were found only in a subfraction of the species [178]. This demonstrates that some species can apparently live without two independent types of PTS. Nonetheless, specific inter- ference with the import of PTS2-carrying proteins is usually associated with severe phenotypes reflecting the inactivation of one or several metabolic pathways due to the lack of several PTS2-carrying enzymes within peroxisomes. Thus, defects specifically affecting the import of
+
+M. Kunze
+BBA - Molecular Cell Research 1867 (2020) 118609
+ 13
+(caption on next page)
+
+M. Kunze BBA - Molecular Cell Research 1867 (2020) 118609
+Fig. 4. PTS2 motifs and other targeting signals: (A) PTS2 mutations interfering with targeting specificity: schematic helical wheel projection for the PTS2 of human thiolase split into conserved positions (below red line) and non-conserved positions (above red line), the PTS2-inactivating mutation HS3K and two bilocalizing mutations VX2K and GX5R cause (partial) mistargeting of a reporter protein to mitochondria, whereas another bilocalizing mutation, QX1L, induces targeting to the ER; (B) sequential choices determine protein transport into diverse organelles or the secretory system: (1) at the ribosome, some newly synthesized proteins are destined for co-translational import into the ER upon recognition of a signal peptide; (2) chaperones of the HSP70-type prevent some proteins from obtaining a fully folded state to allow their transport into mitochondria, chloroplasts or into the ER (post-translational); (3) a fraction of folded soluble proteins are destined by a PTS for peroxisomes, whereas the rest remains in the cytosol; (C) evolutionary origin of PTS: (i) PTS2-centered model (model-1): originally, a bipartite receptor recognizes N-terminal PTS2-like motifs (depicted as yellow sphere with the number 2), but an evolutionary duplication of the co-receptor allows cooperation with a TPR domain capable of binding PTS1 motifs (depicted as a blue sphere with the number 1), either by tight interaction or by joining the encoding genes; the latter will generate a functional PEX5 de novo; subsequently, this PEX5 variant incorporates a novel PEX7 binding site allowing the formation of a trimeric complex; finally, the co- receptor-dependent import of PTS2-carrying proteins is obsolete (dotted line); (ii) PTS1-centered model (model-2): originally, cells express exclusively PEX5 as original receptor for peroxisomal proteins; however, after endosymbiotic event(s), transport systems for N-terminal targeting signals are generated for proteins determined for the novel endosymbiotic organelles; however, such N-terminal targeting signals override PTS (now PTS1) in a similar manner as the mitochondrial targeting signal dominates the PTS1; in this situation, organisms combine parts of the organellar import machinery with copies of the N-terminal part of PEX5 to generate a novel bipartite receptor for PTS motifs residing at the N-terminus of proteins (PTS2-like). For simplicity, all optimization processes have been omitted in the current representation. Co-TL: cotranslational, Post-TL: post-translational, TS targeting signal, Mito., mitochondria, Chlp., chloroplasts.
+ PEX7 locus either completely thus creating a knockout model [191] or incompletely resulting in a hypomorphic mouse model [192]. These mice share metabolic phenotypes with patients including a lack of plasmalogens and reduced ability to deal with phytol in the chow, which generates high levels of toxic branched-chain fatty acids de- manding functional PHYH for degradation [191]. Interestingly, this mouse model does neither show increased levels of straight very long- chain fatty acids in the blood nor increased levels of β-oxidation en- zymes in the liver, which has been observed in other mouse models with a peroxisomal β-oxidation defect [193,194]. These findings cor- roborate the concept that the lack of peroxisomal 3-keto-acyl-CoA thiolase activity (ACAA1), is compensated by the second peroxisomal thiolase, SCPx. Mice lacking the peptidase TYSND1 display reduced plasmalogen levels and increased sensitivity towards phytol-enriched diet [141], which is characteristic for a defect in ether-lipid biosynth- esis (AGPS) and α-oxidation (PHYH) and these symptoms are also ob- served in mice lacking PEX7 [191]. However, all three PTS2-carrying EGFP-tagged proteins (ACAA1, PHYH and AGPS) were found in per- oxisomes in virally infected hepatocytes of these mice [141]. Moreover, these mice have significantly reduced β-oxidation activity in liver homogenates, which might be linked to the limited processing of en- zymes such as ACOX1, HSD17B4/MFP-2 or SCPx. Finally, the amount of peroxisomal β-oxidation enzymes is markedly increased, which has been found in other mice with defects in β-oxidation (MFP2−/−, ACOX1−/−) [195,196]. These differences suggest that major symptoms of TYSND1-deficient mice are caused by the reduced activity of PTS1- carrying β-oxidation enzymes.
+In protozoan species such as Trypanosoma brucei the lack of the PTS2-carrying proteins in peroxisomes is of special interest, because in these species parts of glycolysis is enclosed in peroxisomes and two key enzymes harbor a PTS2 (hexokinase, fructose-bisphosphate aldolase). Specific depletion of TbPEX7 by tetracycline induced expression of dsRNA had a severe effect on the procyclic phase with progressive dying similar to the depletion of TbPEX5, whereas in the blood-stream form, proliferation was stopped for 5 days [197].
+The inhibition of PTS2-mediated protein import in A.thaliana (as model organism for plants) had to be accomplished by combining a point mutation in AtPEX7 (pex7-1) and a mutation in AtPEX5 (pex5-1), each specifically interfering with the interaction between PEX7 and PEX5, because only in this double-mutation processing of thiolase is ablated [76]. The mutated plants develop defective seeds displaying low germination success, their hypocotyl growth was severely reduced, but could be regenerated by external sucrose suggesting a link to a defect in the glyoxylate cycle (gCS) and β-oxidation (gMDH) [172]. Moreover, in the presence of sucrose the inhibition of root growth by the hormone indole-butyric acid (IBA) was not reduced, but that was also observable in the individual mutations as was the lack of a re- sponse to the analogous synthetic proto-auxin 2,4-di-chlorophenox- ybutyric acid [76].
+In fungi the effects of a specific inactivation of the PTS2-carrying pathway are phenotypically broad, but the growth defect in media providing oleic acid as sole carbon source is conserved from S.cerevisiae to distantly related fungi and is caused by a lack of peroxisomal thiolase activity. However, in many pathogenic fungi, other peroxisomal func- tions are also required such as secondary metabolism [198] and in- fectivity. In the ascomycotic fungus Podospora anserina a lack of Pex7p causes the expected growth defect upon oleic acid as carbon source, but also a change in pigmentation (from black to green), and the loss of ascospore germination in homozygous crosses [77]. The rice-patho- genic fungus Magnaporthe oryzae presented with reduced conidia for- mation and differentiation upon ablation of Pex7p and could hardly infect rice leaf sheets [78]. Finally, in Aspergillus species, the bio- synthesis of siderophores, key players in iron metabolism but also in fungal virulence, was found partially located inside peroxisomes. In- terestingly, one of the key enzymes of this process has a putative PTS2 motif and its C-terminal EGFP fusion was found in peroxisomes [199]. Up to now, most studies identifying novel peroxisomal functions in fungal species studied mutant strains, in which peroxisomes are com- pletely inactivated. Thus, a specific contribution of PTS2-carrying proteins cannot be evaluated, but future specific investigations of Pex7p deficient strains from such fungal species will presumably reveal ad- ditional contributions of PTS2-carrying proteins.
+5.2. PTS2 and other targeting signals
+5.2.1. Similarity to other targeting signals
+The amphiphilic properties of α-helices encoding PTS2 motifs re- semble those of other N-terminal targeting signals, which direct the encoding proteins into mitochondria (presequence), chloroplasts (transit peptide) or the ER (signal peptide) [156]. This structural si- milarity is emphasized by the finding that individual point mutations in the PTS2 of rat/human thiolase can eliminate its specificity and reveal a mitochondrial targeting signal or a signal peptide (Fig. 4A) [35,200]. Mutations allowing mitochondrial targeting were found either at a conserved position and inactivated the PTS2, such as the substitution of histidine at position S3 by lysine (HS3K) [200], or at the PEX7-averted side of the PTS2 helix retaining targeting signal function (VX2K or GX5R) [35]. Similarly, substituting the polar glutamine at position X1 by the hydrophobic residue leucine allowed bilocalization in peroxi- somes and the ER [35]. These mutations change the physical properties of the amphiphilic helix into the direction generally associated with mitochondrial targeting signals (more positive) or signal peptides (more hydrophobic). Similar effects of physical properties have been de- scribed recently for the organelle specific insertion of tail-anchored proteins as well [201]. However, at this level it is unclear, whether these mutations primarily increase the affinity of the peptide to another targeting receptor (e.g. TOM20 for mitochondria or the signal re- cognition particle (SRP) for the ER) or whether typical PTS2 motifs
+14
+
+M. Kunze
+BBA - Molecular Cell Research 1867 (2020) 118609
+targeting signals [205].
+Certainly, a choice between such models cannot be made on a
+theoretical basis, but a few differences should be emphasized to sti- mulate further discussion: (i) model-1 postulates the existence of the ER or mitochondria prior to the invention of the PTS2-mediated import system to take advantage of available units, whereas model-2 suggests the invention of the PTS2 import system as a step in the process of endosymbiosis; (ii) model-1 starts with a bipartite receptor for peroxi- somes, whereas model-2 suggests a singular receptor protein, which has to perform many different functions; (iii) model-1 presumes two in- dependent steps; (iv) in model-1 yeast species with independent co- receptor proteins are assumed to reflect the original state, whereas in model-2 the development of the fungal system can also be interpreted as evolutionary diversification; (v) model-1 predicts that PTS1 motifs will progressively replace all PTS2 motifs, whereas model-2 attributes a continuing contribution to changes in transport routes to the PTS2. Accordingly, both models have their strengths and weaknesses and further evidence is required to shed light on this evolutionary process.
+6. Summary
+PTS2 motifs are nonapeptides forming an α-helix, which is linked to the core protein by an unstructured linker domain. The residues at conserved positions of the PTS2 orient their side chains towards one side, facilitating the specific interaction with the receptor PEX7. This dimer is stabilized by a co-receptor mediating the transport of the tri- meric complex to peroxisomes. Translocation of PTS2-carrying proteins across the peroxisomal membrane most probably resembles that of PTS1-carrying ones, although yeast co-receptor molecules apparently form their own translocation pore independent of Pex5p. Inside per- oxisomes, the release of cargo proteins is mechanistically unclear, but might be linked either to a conformational change in the pore protein PEX14 or to the processing of cargo proteins or, in yeast, to the con- tribution of a specific intraperoxisomal protein, Pex8p. Recycling of all co-receptor proteins follows the same mechanism, which includes mono-ubiquitination of a conserved cysteine residue close to the N- terminus and subsequent extraction of ubiquitinated co-receptors by the combined action of two AAA-ATPases. Although PTS2-carrying proteins are less frequent that PTS1-carrying ones, they contribute to a wide variety of important physiological processes, which is emphasized by the severe inherited human disease RCDP caused in a majority of cases by a defect in the transport of PTS2-carrying proteins. Moreover, other species present with a broad variety of other phenotypes upon defects in this import route. The evolutionary advantage for the ex- istence of two independent functional targeting signals is unclear, but might lie in the specific ability of PTS2 motifs to form ambiguous N- terminal targeting signals. Alternatively, PTS2-motifs might just be an evolutionary relict that is progressively lost.
+Transparency document
+The Transparency document associated with this article can be found, in online version.
+Declaration of competing interest
+The author declares that he has no known competing financial in- terests or personal relationships that could have appeared to influence the work reported in this paper.
+Acknowledgements
+The author wants to express his special gratitude to Fabian Dorninger for critically reading the manuscript.
+encode characteristic residues, which primarily serve to avoid un- desired alternative targeting, and this function is lost upon mutation. These aspects needs to be discussed in the context of the general me- chanism of targeting signal recognition within a eukaryotic cell, be- cause in contrast to a simplified model in which all receptor proteins compete for a newly synthesized α-helix, a more recent concept em- phasizes a hierarchy of targeting signals [156,202]. This concept is based on the observation that the choice of the transport route is de- termined by alternative decisions early in the progression of protein folding. Even at the early steps of translation, a protein can be re- cognized and determined for transport into the ER by interaction with the signal recognition particle (SRP). A subfraction of proteins is then prevented from folding by covering large parts of the protein with chaperones of the HSP70 family and possibly by their co-chaperones, and among folded proteins the exposition of a targeting signal such as a PTS2 motif is essential for the decision, where a protein is finally lo- cated (for review [202]) (Fig. 4B). Thus, to successfully reach a per- oxisome by a PTS2 motif, the protein needs to avoid alternative routes to the ER and to other organelles such as mitochondria or chloroplasts, rendering the idea of avoidance residues more intuitive than originally anticipated.
+5.2.2. Origin of the PTS2 motifs
+The existence of two independent targeting signals for peroxisomes raises the question, whether one of them was evolutionary more ori- ginal than the other one and the second targeting signals evolved on top of it.
+One model (model-1) (Fig. 4C – left side) attributes the primary function to the PTS2-mediated import route, which is subsequently adapted to allow the import of PTS1-carrying proteins [203]. In an original state, elements of the import machinery for mitochondria or the ER are modified to mediate the import of proteins with another N- terminal targeting signal to another membrane-bounded compartment, the pre-peroxisome. In this process, two proteins functionally mi- micking the bipartite receptor and PTS2 signals supposedly co-evolve from a precursor variant. The subsequent development of the PTS1- mediated import route is suggested to originate from a genomic re- organization joining the co-receptor with one of the widely distributed TPR domains, which together with the C-termini of cargo proteins evolves further to optimize PTS1 recognition and generates a PTS1 receptor - now PEX5. Finally, the invention of a PEX7-binding motif in the novel PEX5 allows the subsequent replacement of the original co- receptor. The existence of a single receptor is assumed more effective and the PTS2 motif is predicted to die out.
+In the other model (model-2) (Fig. 4C – right side), the PTS1-de- pendent import route mediated by PEX5 is suggested as original me- chanism, whereas the PTS2-mediated process is developed in the con- text of endosymbiotic events leading to the invention of organelles [156]. Accordingly, the appearance of N-terminal targeting signals for endosymbiotic organelles, such as the mitochondrial presequence, are conceptualized as evolutionary pressure, to which organisms respond by introducing another targeting signal for peroxisomes. Mechan- istically, this could be achieved by integrating a building block for the recognition of N-terminal targeting signals into the PTS1 receptor. For that purpose, either a binding site for this building block – now PEX7- BD – has to be invented, or a copy of the N-terminal part of PEX5 could have been adapted to act as additional independent co-receptor protein. However, N-terminal targeting signals functionally override existing PTS1 motifs, which is still the case for mitochondrial targeting signals in mammalian cells [204]. In this situation, an N-terminal peroxisomal targeting signal such as PTS2 would facilitate the concomitant transport of one protein into two different organelles, which is apparently rea- lized in the above mentioned PTS2 variants mediating bilocalization (VX2K or GX5R). This model is supported by the finding that bilocali- zation of proteins to mitochondria and chloroplasts occurs more fre- quently than formerly anticipated based on the assumption of specific
+15
+
+M. Kunze
+BBA - Molecular Cell Research 1867 (2020) 118609
+References
+[1] R.J.Wanders,H.R.Waterham,Biochemistryofmammalianperoxisomesrevisited, Annu. Rev. Biochem. 75 (2006) 295–332.
+[2] H.R. Waterham, S. Ferdinandusse, R.J. Wanders, Human disorders of peroxisome metabolism and biogenesis, Biochim. Biophys. Acta 1863 (2016) 922–933.
+[3] J. Hu, A. Baker, B. Bartel, N. Linka, R.T. Mullen, S. Reumann, B.K. Zolman, Plant peroxisomes: biogenesis and function, Plant Cell 24 (2012) 2279–2303.
+[4] S. Allmann, F. Bringaud, Glycosomes: a comprehensive view of their metabolic roles in T. brucei, Int. J. Biochem. Cell Biol. 85 (2017) 85–90.
+[5] B. Distel, R. Erdmann, S.J. Gould, G. Blobel, D.I. Crane, J.M. Cregg, G. Dodt,
+Y. Fujiki, J.M. Goodman, W.W. Just, J.A. Kiel, W.H. Kunau, P.B. Lazarow,
+G.P. Mannaerts, H.W. Moser, T. Osumi, R.A. Rachubinski, A. Roscher,
+S. Subramani, H.F. Tabak, T. Tsukamoto, D. Valle, I. van der Klei, P.P. van Veldhoven, M. Veenhuis, A unified nomenclature for peroxisome biogenesis fac- tors, J. Cell Biol. 135 (1996) 1–3.
+[6] M. Kunze, J. Berger, Single peroxisomal enzyme and transporter deficiencies in human diseases and mouse models, in: A.H. Cecile Brocard (Ed.), Molecular Machines Involved in Peroxisome Biogenesis and Maintenance, Springer, Place Published, 2014, pp. 153–184.
+[7] P.B. Lazarow, Y. Fujiki, Biogenesis of peroxisomes, Annu. Rev. Cell Biol. 1 (1985) 489–530.
+[8] S. Leon, J.M. Goodman, S. Subramani, Uniqueness of the mechanism of protein import into the peroxisome matrix: transport of folded, co-factor-bound and oli- gomeric proteins by shuttling receptors, Biochim. Biophys. Acta 1763 (2006) 1552–1564.
+[9] R.A. Rachubinski, S. Subramani, How proteins penetrate peroxisomes, Cell 83 (1995) 525–528.
+[10] M. Kunze, Predicting peroxisomal targeting signals to elucidate the peroxisomal proteome of mammals, Subcell. Biochem. 89 (2018) 157–199.
+[11] S.J. Gould, G.A. Keller, N. Hosken, J. Wilkinson, S. Subramani, A conserved tri- peptide sorts proteins to peroxisomes, J. Cell Biol. 108 (1989) 1657–1664.
+[12] G. Lametschwandtner, C. Brocard, M. Fransen, P. Van Veldhoven, J. Berger,
+A. Hartig, The difference in recognition of terminal tripeptides as peroxisomal targeting signal 1 between yeast and human is due to different affinities of their receptor Pex5p to the cognate signal and to residues adjacent to it, J. Biol. Chem. 273 (1998) 33635–33643.
+[13] C. Brocard, A. Hartig, Peroxisome targeting signal 1: is it really a simple tripep- tide? Biochim. Biophys. Acta 1763 (2006) 1565–1573.
+[14] I.J. van der Klei, M. Veenhuis, PTS1-independent sorting of peroxisomal matrix proteins by Pex5p, Biochim. Biophys. Acta 1763 (2006) 1794–1800.
+[15] L. Rymer, B. Kempinski, A. Chelstowska, M. Skoneczny, The budding yeast Pex5p receptor directs Fox2p and Cta1p into peroxisomes via its N-terminal region near the FxxxW domain, J. Cell Sci. 131 (2018).
+[16] M.Islinger,K.W.Li,J.Seitz,A.Volkl,G.H.Luers,HitchhikingofCu/Znsuperoxide dismutase to peroxisomes—evidence for a natural piggyback import mechanism in mammals, Traffic 10 (2009) 1711–1721.
+[17] A.F. Dias, T. Francisco, T.A. Rodrigues, C.P. Grou, J.E. Azevedo, The first minutes in the life of a peroxisomal matrix protein, Biochim. Biophys. Acta 1863 (2016) 814–820.
+[18] I. Van der Leij, M.M. Franse, Y. Elgersma, B. Distel, H.F. Tabak, PAS10 is a tet- ratricopeptide-repeat protein that is essential for the import of most matrix pro- teins into peroxisomes of Saccharomyces cerevisiae, Proc. Natl. Acad. Sci. U. S. A. 90 (1993) 11782–11786.
+[19] G. Dodt, N. Braverman, C. Wong, A. Moser, H.W. Moser, P. Watkins, D. Valle, S.J. Gould, Mutations in the PTS1 receptor gene, PXR1, define complementation group 2 of the peroxisome biogenesis disorders, Nat. Genet. 9 (1995) 115–125.
+[20] M. Marzioch, R. Erdmann, M. Veenhuis, W.H. Kunau, PAS7 encodes a novel yeast member of the WD-40 protein family essential for import of 3-oxoacyl-CoA thio- lase, a PTS2-containing protein, into peroxisomes, EMBO J. 13 (1994) 4908–4918.
+[21] N. Braverman, G. Steel, C. Obie, A. Moser, H. Moser, S.J. Gould, D. Valle, Human PEX7 encodes the peroxisomal PTS2 receptor and is responsible for rhizomelic chondrodysplasia punctata, Nat. Genet. 15 (1997) 369–376.
+[22] A.M. Motley, E.H. Hettema, E.M. Hogenhout, P. Brites, A.L. ten Asbroek,
+F.A. Wijburg, F. Baas, H.S. Heijmans, H.F. Tabak, R.J. Wanders, B. Distel, Rhizomelic chondrodysplasia punctata is a peroxisomal protein targeting disease caused by a non-functional PTS2 receptor, Nat. Genet. 15 (1997) 377–380.
+[23] W. Schliebs, W.H. Kunau, PTS2 co-receptors: diverse proteins with common fea- tures, Biochim. Biophys. Acta 1763 (2006) 1605–1612.
+[24] T.Francisco,T.A.Rodrigues,A.F.Dias,A.Barros-Barbosa,D.Bicho,J.E.Azevedo, Protein transport into peroxisomes: knowns and unknowns, Bioessays 39 (2017).
+[25] G. Zipor, L. Haim-Vilmovsky, R. Gelin-Licht, N. Gadir, C. Brocard, J.E. Gerst, Localization of mRNAs coding for peroxisomal proteins in the yeast, Saccharomyces cerevisiae, Proc. Natl. Acad. Sci. U. S. A. 106 (2009) 19848–19853.
+[26] G. Haimovich, O. Cohen-Zontag, J.E. Gerst, A role for mRNA trafficking and lo- calized translation in peroxisome biogenesis and function? Biochim. Biophys. Acta 1863 (2016) 911–921.
+[27] B.W. Swinkels, S.J. Gould, A.G. Bodnar, R.A. Rachubinski, S. Subramani, A novel, cleavable peroxisomal targeting signal at the amino-terminus of the rat 3-ketoacyl- CoA thiolase, EMBO J. 10 (1991) 3255–3262.
+[28] T. Osumi, T. Tsukamoto, S. Hata, S. Yokota, S. Miura, Y. Fujiki, M. Hijikata,
+S. Miyazawa, T. Hashimoto, Amino-terminal presequence of the precursor of peroxisomal 3-ketoacyl-CoA thiolase is a cleavable signal peptide for peroxisomal targeting, Biochem. Biophys. Res. Commun. 181 (1991) 947–954.
+[29] C. Gietl, K.N. Faber, I.J. van der Klei, M. Veenhuis, Mutational analysis of the N- terminal topogenic signal of watermelon glyoxysomal malate dehydrogenase using the heterologous host Hansenula polymorpha, Proc. Natl. Acad. Sci. U. S. A. 91 (1994) 3151–3155.
+[30] K.N.Faber,P.Haima,C.Gietl,W.Harder,G.Ab,M.Veenhuis,Themethylotrophic yeast Hansenula polymorpha contains an inducible import pathway for perox- isomal matrix proteins with an N-terminal targeting signal (PTS2 proteins), Proc. Natl. Acad. Sci. U. S. A. 91 (1994) 12985–12989.
+[31] R. Erdmann, The peroxisomal targeting signal of 3-oxoacyl-CoA thiolase from Saccharomyces cerevisiae, Yeast 10 (1994) 935–944.
+[32] J. Blattner, H. Dorsam, C.E. Clatyon, Function of N-terminal import signals in trypanosome microbodies, FEBS Lett. 360 (1995) 310–314.
+[33] G.A. Jansen, S.J. Mihalik, P.A. Watkins, H.W. Moser, C. Jakobs, S. Denis,
+R.J. Wanders, Phytanoyl-CoA hydroxylase is present in human liver, located in peroxisomes, and deficient in Zellweger syndrome: direct, unequivocal evidence for the new, revised pathway of phytanic acid alpha-oxidation in humans, Biochem. Biophys. Res. Commun. 229 (1996) 205–210.
+[34] E.C.deVet,J.Biermann,H.vandenBosch,Immunologicallocalizationandtissue distribution of alkyldihydroxyacetonephosphate synthase and deficiency of the enzyme in peroxisomal disorders, Eur. J. Biochem. 247 (1997) 511–517.
+[35] M. Kunze, G. Neuberger, S. Maurer-Stroh, J. Ma, T. Eck, N. Braverman,
+J.A. Schmid, F. Eisenhaber, J. Berger, Structural requirements for interaction of peroxisomal targeting signal 2 and its receptor PEX7, J. Biol. Chem. 286 (2011) 45048–45062.
+[36] C.R. Flynn, R.T. Mullen, R.N. Trelease, Mutational analyses of a type 2 perox- isomal targeting signal that is capable of directing oligomeric protein import into tobacco BY-2 glyoxysomes, Plant J. 16 (1998) 709–720.
+[37] T. Tsukamoto, S. Hata, S. Yokota, S. Miura, Y. Fujiki, M. Hijikata, S. Miyazawa, T. Hashimoto, T. Osumi, Characterization of the signal peptide at the amino ter- minus of the rat peroxisomal 3-ketoacyl-CoA thiolase precursor, J. Biol. Chem. 269 (1994) 6001–6010.
+[38] J.R. Glover, D.W. Andrews, S. Subramani, R.A. Rachubinski, Mutagenesis of the amino targeting signal of Saccharomyces cerevisiae 3-ketoacyl-CoA thiolase re- veals conserved amino acids required for import into peroxisomes in vivo, J. Biol. Chem. 269 (1994) 7558–7563.
+[39] S.Reumann,Specificationoftheperoxisometargetingsignalstype1andtype2of plant peroxisomes by bioinformatics analyses, Plant Physiol. 135 (2004) 783–800.
+[40] O.I. Petriv, L. Tang, V.I. Titorenko, R.A. Rachubinski, A new definition for the consensus sequence of the peroxisome targeting signal type 2, J. Mol. Biol. 341 (2004) 119–134.
+[41] G. Neuberger, S. Maurer-Stroh, B. Eisenhaber, A. Hartig, F. Eisenhaber, Motif re- finement of the peroxisomal targeting signal 1 and evaluation of taxon-specific differences, J. Mol. Biol. 328 (2003) 567–579.
+[42] J.A.Kiel,M.A.vandenBerg,F.Fusetti,B.Poolman,R.A.Bovenberg,M.Veenhuis, I.J. van der Klei, Matching the proteome to the genome: the microbody of peni- cillin-producing Penicillium chrysogenum cells, Funct. Integr. Genomics 9 (2009) 167–184.
+[43] D. Pan, T. Nakatsu, H. Kato, Crystal structure of peroxisomal targeting signal-2 bound to its receptor complex Pex7p-Pex21p, Nat. Struct. Mol. Biol. 20 (2013) 987–993.
+[44] B. Wimmer, F. Lottspeich, I. van der Klei, M. Veenhuis, C. Gietl, The glyoxysomal and plastid molecular chaperones (70-kDa heat shock protein) of watermelon cotyledons are encoded by a single gene, Proc. Natl. Acad. Sci. U. S. A. 94 (1997) 13624–13629.
+[45] F.J. Corpas, J.B. Barroso, Peroxisomal plant nitric oxide synthase (NOS) protein is imported by peroxisomal targeting signal type 2 (PTS2) in a process that depends on the cytosolic receptor PEX7 and calmodulin, FEBS Lett. 588 (2014) 2049–2054.
+[46] P.A. Loughran, D.B. Stolz, S.R. Barrick, D.S. Wheeler, P.A. Friedman,
+R.A. Rachubinski, S.C. Watkins, T.R. Billiar, PEX7 and EBP50 target iNOS to the peroxisome in hepatocytes, Nitric Oxide 31 (2013) 9–19.
+[47] S. Wiese, T. Gronemeyer, P. Brites, R. Ofman, C. Bunse, C. Renz, H.E. Meyerd, R.J.A. Wanders, B. Warscheid, Comparative profiling of the peroxisomal proteome of wildtype and Pex7 knockout mice by quantitative mass spectrometry, Int. J. Mass Spectrom. 312 (2012) 30–40.
+[48] M. Passreiter, M. Anton, D. Lay, R. Frank, C. Harter, F.T. Wieland, K. Gorgas, W.W. Just, Peroxisome biogenesis: involvement of ARF and coatomer, J. Cell Biol. 141 (1998) 373–383.
+[49] M. Deckers, K. Emmrich, W. Girzalsky, W.L. Awa, W.H. Kunau, R. Erdmann, Targeting of Pex8p to the peroxisomal importomer, Eur. J. Cell Biol. 89 (2010) 924–931.
+[50] S.Bonsegna,S.P.Slocombe,L.DeBellis,A.Baker,AtLACS7interactswiththeTPR domains of the PTS1 receptor PEX5, Arch. Biochem. Biophys. 443 (2005) 74–81.
+[51] S.Cui,S.Mano,K.Yamada,M.Hayashi,M.Nishimura,Novelproteinsinteracting
+with peroxisomal protein receptor PEX7 in Arabidopsis thaliana, Plant Signal.
+Behav. 8 (2013), https://doi.org/10.4161/psb.26829.
+[52] S. Reumann, L. Babujee, C. Ma, S. Wienkoop, T. Siemsen, G.E. Antonicelli,
+N. Rasche, F. Luder, W. Weckwerth, O. Jahn, Proteome analysis of Arabidopsis leaf peroxisomes reveals novel targeting peptides, metabolic pathways, and defense mechanisms, Plant Cell 19 (2007) 3170–3193.
+[53] F.R. Opperdoes, J.P. Szikora, In silico prediction of the glycosomal enzymes of Leishmania major and trypanosomes, Mol. Biochem. Parasitol. 147 (2006) 193–206.
+[54] Y. Mizuno, I.V. Kurochkin, M. Herberth, Y. Okazaki, C. Schonbach, Predicted mouse peroxisome-targeted proteins and their actual subcellular locations, BMC Bioinformatics 9 (Suppl. 12) (2008) S16.
+[55] A. Schluter, S. Fourcade, E. Domenech-Estevez, T. Gabaldon, J. Huerta-Cepas,
+16
+
+M. Kunze
+BBA - Molecular Cell Research 1867 (2020) 118609
+G. Berthommier, R. Ripp, R.J. Wanders, O. Poch, A. Pujol, PeroxisomeDB: a da- tabase for the peroxisomal proteome, functional genomics and disease, Nucleic Acids Res. 35 (2007) D815–D822.
+[56] M. Hijikata, J.K. Wen, T. Osumi, T. Hashimoto, Rat peroxisomal 3-ketoacyl-CoA thiolase gene. Occurrence of two closely related but differentially regulated genes, J. Biol. Chem. 265 (1990) 4600–4606.
+[57] A.G. Bodnar, R.A. Rachubinski, Cloning and sequence determination of cDNA encoding a second rat liver peroxisomal 3-ketoacyl-CoA thiolase, Gene 91 (1990) 193–199.
+[58] C. Gietl, B. Hock, Import of in-vitro-synthesized glyoxysomal malate dehy- drogenase into isolated watermelon glyoxysomes, Planta 162 (1984) 261–267.
+[59] E.C. de Vet, L. Ijlst, W. Oostheim, R.J. Wanders, H. van den Bosch, Alkyl-dihy- droxyacetonephosphate synthase. Fate in peroxisome biogenesis disorders and
+identification of the point mutation underlying a single enzyme deficiency, J. Biol.
+Chem. 273 (1998) 10296–10301.
+[60] G.A. Jansen, R. Ofman, S. Denis, S. Ferdinandusse, E.M. Hogenhout, C. Jakobs,
+R.J. Wanders, Phytanoyl-CoA hydroxylase from rat liver. Protein purification and cDNA cloning with implications for the subcellular localization of phytanic acid alpha-oxidation, J. Lipid Res. 40 (1999) 2244–2254.
+[61] J. Biermann, H. van den Bosch, In vitro processing of the human alkyl-dihydrox- yacetonephosphate synthase precursor, Arch. Biochem. Biophys. 368 (1999) 139–146.
+[62] G.A. Jansen, R. Ofman, S. Ferdinandusse, L. Ijlst, A.O. Muijsers, O.H. Skjeldal, O. Stokke, C. Jakobs, G.T. Besley, J.E. Wraith, R.J. Wanders, Refsum disease is caused by mutations in the phytanoyl-CoA hydroxylase gene, Nat. Genet. 17 (1997) 190–193.
+[63] A. Kato, Y. Takeda-Yoshikawa, M. Hayashi, M. Kondo, I. Hara-Nishimura,
+M. Nishimura, Glyoxysomal malate dehydrogenase in pumpkin: cloning of a cDNA and functional analysis of its presequence, Plant Cell Physiol. 39 (1998) 186–195.
+[64] A. Kato, M. Hayashi, Y. Takeuchi, M. Nishimura, cDNA cloning and expression of a gene for 3-ketoacyl-CoA thiolase in pumpkin cotyledons, Plant Mol. Biol. 31 (1996) 843–852.
+[65] A. Kato, M. Hayashi, H. Mori, M. Nishimura, Molecular characterization of a glyoxysomal citrate synthase that is synthesized as a precursor of higher molecular mass in pumpkin, Plant Mol. Biol. 27 (1995) 377–390.
+[66] A. Kato, M. Hayashi, M. Kondo, M. Nishimura, Targeting and processing of a chimeric protein with the N-terminal presequence of the precursor to glyoxysomal citrate synthase, Plant Cell 8 (1996) 1601–1611.
+[67] H. Hayashi, L. De Bellis, K. Yamaguchi, A. Kato, M. Hayashi, M. Nishimura, Molecular characterization of a glyoxysomal long chain acyl-CoA oxidase that is synthesized as a precursor of higher molecular mass in pumpkin, J. Biol. Chem. 273 (1998) 8301–8307.
+[68] C. Gietl, Glyoxysomal malate dehydrogenase from watermelon is synthesized with an amino-terminal transit peptide, Proc. Natl. Acad. Sci. U. S. A. 87 (1990) 5773–5777.
+[69] D.M. Chudzik, P.A. Michels, S. de Walque, W.G. Hol, Structures of type 2 perox- isomal targeting signals in two trypanosomatid aldolases, J. Mol. Biol. 300 (2000) 697–707.
+[70] H. Schuhmann, P.F. Huesgen, C. Gietl, I. Adamska, The DEG15 serine protease cleaves peroxisomal targeting signal 2-containing proteins in Arabidopsis, Plant Physiol. 148 (2008) 1847–1856.
+[71] B. Cox, M.M. Chit, T. Weaver, C. Gietl, J. Bailey, E. Bell, L. Banaszak, Organelle and translocatable forms of glyoxysomal malate dehydrogenase. The effect of the N-terminal presequence, FEBS J. 272 (2005) 643–654.
+[72] C. Olesen, K.K. Thomsen, I. Svendsen, A. Brandt, The glyoxysomal 3-ketoacyl-CoA thiolase precursor from Brassica napus has enzymatic activity when synthesized in Escherichia coli, FEBS Lett. 412 (1997) 138–140.
+[73] P. Rehling, M. Marzioch, F. Niesen, E. Wittke, M. Veenhuis, W.H. Kunau, The import receptor for the peroxisomal targeting signal 2 (PTS2) in Saccharomyces cerevisiae is encoded by the PAS7 gene, EMBO J. 15 (1996) 2901–2913.
+[74] J.W. Zhang, P.B. Lazarow, PEB1 (PAS7) in Saccharomyces cerevisiae encodes a hydrophilic, intra-peroxisomal protein that is a member of the WD repeat family and is essential for the import of thiolase into peroxisomes, J. Cell Biol. 129 (1995) 65–80.
+[75] P.E. Purdue, J.W. Zhang, M. Skoneczny, P.B. Lazarow, Rhizomelic chon- drodysplasia punctata is caused by deficiency of human PEX7, a homologue of the yeast PTS2 receptor, Nat. Genet. 15 (1997) 381–384.
+[76] A.W. Woodward, B. Bartel, The Arabidopsis peroxisomal targeting signal type 2 receptor PEX7 is necessary for peroxisome function and dependent on PEX5, Mol. Biol. Cell 16 (2005) 573–583.
+[77] C. Bonnet, E. Espagne, D. Zickler, S. Boisnard, A. Bourdais, V. Berteaux-Lecellier, The peroxisomal import proteins PEX2, PEX5 and PEX7 are differently involved in Podospora anserina sexual cycle, Mol. Microbiol. 62 (2006) 157–169.
+[78] J. Goh, J. Jeon, K.S. Kim, J. Park, S.Y. Park, Y.H. Lee, The PEX7-mediated per- oxisomal import system is required for fungal development and pathogenicity in Magnaporthe oryzae, PLoS One 6 (2011) e28220.
+[79] C.U. Stirnimann, E. Petsalaki, R.B. Russell, C.W. Muller, WD40 proteins propel cellular networks, Trends Biochem. Sci. 35 (2010) 565–574.
+[80] N. Braverman, L. Chen, P. Lin, C. Obie, G. Steel, P. Douglas, P.K. Chakraborty, J.T. Clarke, A. Boneh, A. Moser, H. Moser, D. Valle, Mutation analysis of PEX7 in 60 probands with rhizomelic chondrodysplasia punctata and functional correla- tions of genotype with phenotype, Hum. Mutat. 20 (2002) 284–297.
+[81] W.A. Stanley, K. Fodor, M.A. Marti-Renom, W. Schliebs, M. Wilmanns, Protein translocation into peroxisomes by ring-shaped import receptors, FEBS Lett. 581 (2007) 4795–4802.
+[82] D.M. Nair, P.E. Purdue, P.B. Lazarow, Pex7p translocates in and out of
+peroxisomes in Saccharomyces cerevisiae, J. Cell Biol. 167 (2004) 599–604.
+[83] T.A. Rodrigues, I.S. Alencastre, T. Francisco, P. Brites, M. Fransen, C.P. Grou,
+J.E. Azevedo, A PEX7-centered perspective on the peroxisomal targeting signal
+type 2-mediated protein import pathway, Mol. Cell. Biol. 34 (2014) 2917–2928.
+[84] A.V. Pilar, K.P. Madrid, A. Jardim, Interaction of Leishmania PTS2 receptor per-
+oxin 7 with the glycosomal protein import machinery, Mol. Biochem. Parasitol.
+158 (2008) 72–81.
+[85] M. Kunze, N. Malkani, S. Maurer-Stroh, C. Wiesinger, J.A. Schmid, J. Berger,
+Mechanistic insights into PTS2-mediated peroxisomal protein import: the co-re- ceptor PEX5L drastically increases the interaction strength between the cargo protein and the receptor PEX7, J. Biol. Chem. 290 (2015) 4928–4940.
+[86] S. Grunau, W. Schliebs, R. Linnepe, C. Neufeld, C. Cizmowski, B. Reinartz, H.E. Meyer, B. Warscheid, W. Girzalsky, R. Erdmann, Peroxisomal targeting of PTS2 pre-import complexes in the yeast Saccharomyces cerevisiae, Traffic 10 (2009) 451–460.
+[87] N. Braverman, G. Dodt, S.J. Gould, D. Valle, An isoform of pex5p, the human PTS1 receptor, is required for the import of PTS2 proteins into peroxisomes, Hum. Mol. Genet. 7 (1998) 1195–1205.
+[88] H. Otera, K. Okumoto, K. Tateishi, Y. Ikoma, E. Matsuda, M. Nishimura,
+T. Tsukamoto, T. Osumi, K. Ohashi, O. Higuchi, Y. Fujiki, Peroxisome targeting signal type 1 (PTS1) receptor is involved in import of both PTS1 and PTS2: studies with PEX5-defective CHO cell mutants, Mol. Cell. Biol. 18 (1998) 388–399.
+[89] M. Sichting, A. Schell-Steven, H. Prokisch, R. Erdmann, H. Rottensteiner, Pex7p and Pex20p of Neurospora crassa function together in PTS2-dependent protein import into peroxisomes, Mol. Biol. Cell 14 (2003) 810–821.
+[90] V.I. Titorenko, J.J. Smith, R.K. Szilard, R.A. Rachubinski, Pex20p of the yeast Yarrowia lipolytica is required for the oligomerization of thiolase in the cytosol and for its targeting to the peroxisome, J. Cell Biol. 142 (1998) 403–420.
+[91] M. Otzen, D. Wang, M.G. Lunenborg, I.J. van der Klei, Hansenula polymorpha Pex20p is an oligomer that binds the peroxisomal targeting signal 2 (PTS2), J. Cell Sci. 118 (2005) 3409–3418.
+[92] P.E. Purdue, X. Yang, P.B. Lazarow, Pex18p and Pex21p, a novel pair of related peroxins essential for peroxisomal targeting by the PTS2 pathway, J. Cell Biol. 143 (1998) 1859–1869.
+[93] K. Stein, A. Schell-Steven, R. Erdmann, H. Rottensteiner, Interactions of Pex7p and Pex18p/Pex21p with the peroxisomal docking machinery: implications for the first steps in PTS2 protein import, Mol. Cell. Biol. 22 (2002) 6056–6069.
+[94] W. Schliebs, J. Saidowsky, B. Agianian, G. Dodt, F.W. Herberg, W.H. Kunau, Recombinant human peroxisomal targeting signal receptor PEX5. Structural basis for interaction of PEX5 with PEX14, J. Biol. Chem. 274 (1999) 5666–5673.
+[95] W.A. Stanley, F.V. Filipp, P. Kursula, N. Schuller, R. Erdmann, W. Schliebs,
+M. Sattler, M. Wilmanns, Recognition of a functional peroxisome type 1 target by the dynamic import receptor pex5p, Mol. Cell 24 (2006) 653–663.
+[96] T.G. Knott, G.M. Birdsey, K.E. Sinclair, I.M. Gallagher, P.E. Purdue, C.J. Danpure, The peroxisomal targeting sequence type 1 receptor, Pex5p, and the peroxisomal import efficiency of alanine:glyoxylate aminotransferase, Biochem. J. 352 (Pt 2) (2000) 409–418.
+[97] T. Matsumura, H. Otera, Y. Fujiki, Disruption of the interaction of the longer isoform of Pex5p, Pex5pL, with Pex7p abolishes peroxisome targeting signal type 2 protein import in mammals. Study with a novel Pex5-impaired Chinese hamster ovary cell mutant, J. Biol. Chem. 275 (2000) 21715–21721.
+[98] J.R. Lee, H.H. Jang, J.H. Park, J.H. Jung, S.S. Lee, S.K. Park, Y.H. Chi, J.C. Moon, Y.M. Lee, S.Y. Kim, J.Y. Kim, D.J. Yun, M.J. Cho, K.O. Lee, S.Y. Lee, Cloning of two splice variants of the rice PTS1 receptor, OsPex5pL and OsPex5pS, and their functional characterization using pex5-deficient yeast and Arabidopsis, Plant J. 47 (2006) 457–466.
+[99] F. Kragler, G. Lametschwandtner, J. Christmann, A. Hartig, J.J. Harada, Identification and analysis of the plant peroxisomal targeting signal 1 receptor NtPEX5, Proc. Natl. Acad. Sci. U. S. A. 95 (1998) 13336–13341.
+[100] H. Otera, K. Setoguchi, M. Hamasaki, T. Kumashiro, N. Shimizu, Y. Fujiki, Peroxisomal targeting signal receptor Pex5p interacts with cargoes and import machinery components in a spatiotemporally differentiated manner: conserved Pex5p WXXXF/Y motifs are critical for matrix protein import, Mol. Cell. Biol. 22 (2002) 1639–1655.
+[101] T. Baroy, J. Koster, P. Stromme, M.S. Ebberink, D. Misceo, S. Ferdinandusse,
+A. Holmgren, T. Hughes, E. Merckoll, J. Westvik, B. Woldseth, J. Walter, N. Wood, B. Tvedt, K. Stadskleiv, R.J. Wanders, H.R. Waterham, E. Frengen, A novel type of rhizomelic chondrodysplasia punctata, RCDP5, is caused by loss of the PEX5 long isoform, Hum. Mol. Genet. 24 (2015) 5845–5854.
+[102] H. Otera, T. Harano, M. Honsho, K. Ghaedi, S. Mukai, A. Tanaka, A. Kawai,
+N. Shimizu, Y. Fujiki, The mammalian peroxin Pex5pL, the longer isoform of the mobile peroxisome targeting signal (PTS) type 1 transporter, translocates the Pex7p.PTS2 protein complex into peroxisomes via its initial docking site, Pex14p, J. Biol. Chem. 275 (2000) 21703–21714.
+[103] B.R. Khan, B.K. Zolman, pex5 mutants that differentially disrupt PTS1 and PTS2 peroxisomal matrix protein import in Arabidopsis, Plant Physiol. 154 (2010) 1602–1615.
+[104] K.J. Patel, Y.T. Kao, R.J. Llinas, B. Bartel, A PEX5 missense allele preferentially disrupts PTS1 cargo import into Arabidopsis peroxisomes, Plant Direct 3 (2019).
+[105] A. Schafer, D. Kerssen, M. Veenhuis, W.H. Kunau, W. Schliebs, Functional simi- larity between the peroxisomal PTS2 receptor binding protein Pex18p and the N- terminal half of the PTS1 receptor Pex5p, Mol. Cell. Biol. 24 (2004) 8895–8906.
+[106] D. Effelsberg, L.D. Cruz-Zaragoza, J. Tonillo, W. Schliebs, R. Erdmann, Role of Pex21p for piggyback import of Gpd1p and Pnc1p into peroxisomes of Saccharomyces cerevisiae, J. Biol. Chem. 290 (2015) 25333–25342.
+[107] H. Einwachter, S. Sowinski, W.H. Kunau, W. Schliebs, Yarrowia lipolytica Pex20p,
+17
+
+M. Kunze
+BBA - Molecular Cell Research 1867 (2020) 118609
+[108]
+[109]
+[110]
+[111]
+[112]
+[113] [114]
+[115] [116]
+[117] [118] [119] [120] [121] [122] [123] [124]
+[125]
+[126] [127] [128]
+[129] [130] [131] [132] [133] [134] [135]
+Saccharomyces cerevisiae Pex18p/Pex21p and mammalian Pex5pL fulfil a common function in the early steps of the peroxisomal PTS2 import pathway, EMBO Rep. 2 (2001) 1035–1039.
+G. Dodt, D. Warren, E. Becker, P. Rehling, S.J. Gould, Domain mapping of human PEX5 reveals functional and structural similarities to Saccharomyces cerevisiae Pex18p and Pex21p, J. Biol. Chem. 276 (2001) 41769–41781.
+L.L. Cross, H.T. Ebeed, A. Baker, Peroxisome biogenesis, protein targeting me- chanisms and PEX gene functions in plants, Biochim. Biophys. Acta 1863 (2016) 850–862.
+K. Kang, M. Takahara, H. Sakaue, M. Sakaguchi, Capsid protease domain as a tool for assessing protein-domain folding during organelle import of nascent poly- peptides in living cells, J. Biochem. 159 (2016) 497–508.
+S. Mukai, Y. Fujiki, Molecular mechanisms of import of peroxisome-targeting signal type 2 (PTS2) proteins by PTS2 receptor Pex7p and PTS1 receptor Pex5pL, J. Biol. Chem. 281 (2006) 37311–37320.
+M. Fransen, C. Brees, K. Ghys, L. Amery, G.P. Mannaerts, D. Ladant, P.P. Van Veldhoven, Analysis of mammalian peroxin interactions using a non-transcription- based bacterial two-hybrid assay, Mol. Cell. Proteomics 1 (2002) 243–252.
+T.A. Rodrigues, C.P. Grou, J.E. Azevedo, Revisiting the intraperoxisomal pathway of mammalian PEX7, Sci. Rep. 5 (2015) 11806.
+N.M. Ramon, B. Bartel, Interdependence of the peroxisome-targeting receptors in Arabidopsis thaliana: PEX7 facilitates PEX5 accumulation and import of PTS1 cargo into peroxisomes, Mol. Biol. Cell 21 (2010) 1263–1271.
+J.E. Legakis, S.R. Terlecky, PTS2 protein import into mammalian peroxisomes, Traffic 2 (2001) 252–260.
+I. Lamberto, R. Percudani, R. Gatti, C. Folli, S. Petrucco, Conserved alternative splicing of Arabidopsis transthyretin-like determines protein localization and S- allantoin synthesis in peroxisomes, Plant Cell 22 (2010) 1564–1574.
+J.R. Glover, D.W. Andrews, R.A. Rachubinski, Saccharomyces cerevisiae perox- isomal thiolase is imported as a dimer, Proc. Natl. Acad. Sci. U. S. A. 91 (1994) 10541–10545.
+T.L. Johnson, L.J. Olsen, Import of the peroxisomal targeting signal type 2 protein 3-ketoacyl-coenzyme a thiolase into glyoxysomes, Plant Physiol. 133 (2003) 1991–1999.
+S. Kumar, R. Singh, C.P. Williams, I.J. van der Klei, Stress exposure results in increased peroxisomal levels of yeast Pnc1 and Gpd1, which are imported via a piggy-backing mechanism, Biochim. Biophys. Acta 1863 (2016) 148–156.
+N.A. Saryi, J.D. Hutchinson, M.Y. Al-Hejjaj, S. Sedelnikova, P. Baker,
+E.H. Hettema, Pnc1 piggy-back import into peroxisomes relies on Gpd1 homo- dimerisation, Sci. Rep. 7 (2017) 42579.
+S. Jung, M. Marelli, R.A. Rachubinski, D.R. Goodlett, J.D. Aitchison, Dynamic changes in the subcellular distribution of Gpd1p in response to cell stress, J. Biol. Chem. 285 (2010) 6739–6749.
+M. Albertini, P. Rehling, R. Erdmann, W. Girzalsky, J.A. Kiel, M. Veenhuis,
+W.H. Kunau, Pex14p, a peroxisomal membrane protein binding both receptors of the two PTS-dependent import pathways, Cell 89 (1997) 83–92.
+D. Managadze, C. Wurtz, M. Sichting, G. Niehaus, M. Veenhuis, H. Rottensteiner, The peroxin PEX14 of Neurospora crassa is essential for the biogenesis of both glyoxysomes and Woronin bodies, Traffic 8 (2007) 687–701.
+N. Shimizu, R. Itoh, Y. Hirono, H. Otera, K. Ghaedi, K. Tateishi, S. Tamura,
+K. Okumoto, T. Harano, S. Mukai, Y. Fujiki, The peroxin Pex14p. cDNA cloning by functional complementation on a Chinese hamster ovary cell mutant, character- ization, and functional analysis, J. Biol. Chem. 274 (1999) 12593–12604.
+J. Saidowsky, G. Dodt, K. Kirchberg, A. Wegner, W. Nastainczyk, W.H. Kunau, W. Schliebs, The di-aromatic pentapeptide repeats of the human peroxisome im- port receptor PEX5 are separate high affinity binding sites for the peroxisomal membrane protein PEX14, J. Biol. Chem. 276 (2001) 34524–34529.
+A.J. Urquhart, D. Kennedy, S.J. Gould, D.I. Crane, Interaction of Pex5p, the type 1 peroxisome targeting signal receptor, with the peroxisomal membrane proteins Pex14p and Pex13p, J. Biol. Chem. 275 (2000) 4127–4136.
+M. Fransen, S.R. Terlecky, S. Subramani, Identification of a human PTS1 receptor docking protein directly required for peroxisomal protein import, Proc. Natl. Acad. Sci. U. S. A. 95 (1998) 8087–8092.
+A. Barros-Barbosa, M.J. Ferreira, T.A. Rodrigues, A.G. Pedrosa, C.P. Grou,
+M.P. Pinto, M. Fransen, T. Francisco, J.E. Azevedo, Membrane topologies of PEX13 and PEX14 provide new insights on the mechanism of protein import into per- oxisomes, FEBS J. 286 (2019) 205–222.
+S. Mano, C. Nakamori, K. Nito, M. Kondo, M. Nishimura, The Arabidopsis pex12 and pex13 mutants are defective in both PTS1- and PTS2-dependent protein transport to peroxisomes, Plant J. 47 (2006) 604–618.
+T. Lanyon-Hogg, J. Hooper, S. Gunn, S.L. Warriner, A. Baker, PEX14 binding to Arabidopsis PEX5 has differential effects on PTS1 and PTS2 cargo occupancy of the receptor, FEBS Lett. 588 (2014) 2223–2229.
+K. Nito, M. Hayashi, M. Nishimura, Direct interaction and determination of binding domains among peroxisomal import factors in Arabidopsis thaliana, Plant Cell Physiol. 43 (2002) 355–366.
+S. Mukai, T. Matsuzaki, Y. Fujiki, The cytosolic peroxisome-targeting signal (PTS)- receptors, Pex7p and Pex5pL, are sufficient to transport PTS2 proteins to peroxi- somes, Biochim. Biophys. Acta, Mol. Cell Res. 1866 (2019) 441–449.
+P.A. Walton, M. Wendland, S. Subramani, R.A. Rachubinski, W.J. Welch, Involvement of 70-kD heat-shock proteins in peroxisomal import, J. Cell Biol. 125 (1994) 1037–1046.
+I.S. Alencastre, T.A. Rodrigues, C.P. Grou, M. Fransen, C. Sa-Miranda,
+J.E. Azevedo, Mapping the cargo protein membrane translocation step into the PEX5 cycling pathway, J. Biol. Chem. 284 (2009) 27243–27251.
+R. Itoh, Y. Fujiki, Functional domains and dynamic assembly of the peroxin
+[136]
+[137] [138] [139] [140] [141]
+[142] [143] [144]
+[145] [146] [147] [148]
+[149]
+[150] [151] [152]
+[153] [154]
+[155] [156] [157]
+[158] [159] [160]
+Pex14p, the entry site of matrix proteins, J. Biol. Chem. 281 (2006) 10196–10205. A.M. Gouveia, C. Reguenga, M.E. Oliveira, C. Sa-Miranda, J.E. Azevedo, Characterization of peroxisomal Pex5p from rat liver. Pex5p in the Pex5p-Pex14p membrane complex is a transmembrane protein, J. Biol. Chem. 275 (2000) 32444–32451.
+C. Ma, D. Hagstrom, S.G. Polley, S. Subramani, Redox-regulated cargo binding and release by the peroxisomal targeting signal receptor, Pex5, J. Biol. Chem. 288 (2013) 27220–27231.
+M. Montilla-Martinez, S. Beck, J. Klumper, M. Meinecke, W. Schliebs, R. Wagner, R. Erdmann, Distinct pores for peroxisomal import of PTS1 and PTS2 proteins, Cell Rep. 13 (2015) 2126–2134.
+M. Meinecke, C. Cizmowski, W. Schliebs, V. Kruger, S. Beck, R. Wagner,
+R. Erdmann, The peroxisomal importomer constitutes a large and highly dynamic pore, Nat. Cell Biol. 12 (2010) 273–277.
+N. Miyata, K. Hosoi, S. Mukai, Y. Fujiki, In vitro import of peroxisome-targeting signal type 2 (PTS2) receptor Pex7p into peroxisomes, Biochim. Biophys. Acta 1793 (2009) 860–870.
+Y. Mizuno, Y. Ninomiya, Y. Nakachi, M. Iseki, H. Iwasa, M. Akita, T. Tsukui,
+N. Shimozawa, C. Ito, K. Toshimori, M. Nishimukai, H. Hara, R. Maeba,
+T. Okazaki, A.N. Alodaib, M. Al Amoudi, M. Jacob, F.S. Alkuraya, Y. Horai,
+M. Watanabe, H. Motegi, S. Wakana, T. Noda, I.V. Kurochkin, Y. Mizuno,
+C. Schonbach, Y. Okazaki, Tysnd1 deficiency in mice interferes with the perox- isomal localization of PTS2 enzymes, causing lipid metabolic abnormalities and male infertility, PLoS Genet. 9 (2013) e1003286.
+M.O. Freitas, T. Francisco, T.A. Rodrigues, I.S. Alencastre, M.P. Pinto, C.P. Grou, A.F. Carvalho, M. Fransen, C. Sa-Miranda, J.E. Azevedo, PEX5 protein binds monomeric catalase blocking its tetramerization and releases it upon binding the N-terminal domain of PEX14, J. Biol. Chem. 286 (2011) 40509–40519.
+V. Hagmann, S. Sommer, P. Fabian, J. Bierlmeier, N. van Treel, H.D. Mootz,
+D. Schwarzer, J.E. Azevedo, G. Dodt, Chemically monoubiquitinated PEX5 binds to the components of the peroxisomal docking and export machinery, Sci. Rep. 8 (2018) 16014.
+P. Rehling, A. Skaletz-Rorowski, W. Girzalsky, T. Voorn-Brouwer, M.M. Franse, B. Distel, M. Veenhuis, W.H. Kunau, R. Erdmann, Pex8p, an intraperoxisomal peroxin of Saccharomyces cerevisiae required for protein transport into peroxi- somes binds the PTS1 receptor pex5p, J. Biol. Chem. 275 (2000) 3593–3602. J.J. Smith, R.A. Rachubinski, A role for the peroxin Pex8p in Pex20p-dependent thiolase import into peroxisomes of the yeast Yarrowia lipolytica, J. Biol. Chem. 276 (2001) 1618–1625.
+B. Agne, N.M. Meindl, K. Niederhoff, H. Einwachter, P. Rehling, A. Sickmann, H.E. Meyer, W. Girzalsky, W.H. Kunau, Pex8p: an intraperoxisomal organizer of the peroxisomal import machinery, Mol. Cell 11 (2003) 635–646.
+L. Zhang, S. Leon, S. Subramani, Two independent pathways traffic the in- traperoxisomal peroxin PpPex8p into peroxisomes: mechanism and evolutionary implications, Mol. Biol. Cell 17 (2006) 690–699.
+X. Wang, M.A. McMahon, S.N. Shelton, M. Nampaisansuk, J.L. Ballard,
+J.M. Goodman, Multiple targeting modules on peroxisomal proteins are not re- dundant: discrete functions of targeting signals within Pmp47 and Pex8p, Mol. Biol. Cell 15 (2004) 1702–1710.
+D. Wang, N.V. Visser, M. Veenhuis, I.J. van der Klei, Physical interactions of the peroxisomal targeting signal 1 receptor pex5p, studied by fluorescence correlation spectroscopy, J. Biol. Chem. 278 (2003) 43340–43345.
+T. Francisco, T.A. Rodrigues, M.P. Pinto, A.F. Carvalho, J.E. Azevedo, C.P. Grou, Ubiquitin in the peroxisomal protein import pathway, Biochimie 98 (2014) 29–35. W. Wang, S. Subramani, Role of PEX5 ubiquitination in maintaining peroxisome dynamics and homeostasis, Cell Cycle 16 (2017) 2037–2045.
+M.O. Debelyy, H.W. Platta, D. Saffian, A. Hensel, S. Thoms, H.E. Meyer,
+B. Warscheid, W. Girzalsky, R. Erdmann, Ubp15p, a ubiquitin hydrolase associated with the peroxisomal export machinery, J. Biol. Chem. 286 (2011) 28223–28234. A. Hensel, S. Beck, F. El Magraoui, H.W. Platta, W. Girzalsky, R. Erdmann, Cysteine-dependent ubiquitination of Pex18p is linked to cargo translocation across the peroxisomal membrane, J. Biol. Chem. 286 (2011) 43495–43505.
+F. El Magraoui, R. Brinkmeier, A. Schrotter, W. Girzalsky, T. Muller, K. Marcus, H.E. Meyer, R. Erdmann, H.W. Platta, Distinct ubiquitination cascades act on the peroxisomal targeting signal type 2 co-receptor Pex18p, Traffic 14 (2013) 1290–1301.
+S. Leon, L. Zhang, W.H. McDonald, J. Yates 3rd, J.M. Cregg, S. Subramani, Dynamics of the peroxisomal import cycle of PpPex20p: ubiquitin-dependent lo- calization and regulation, J. Cell Biol. 172 (2006) 67–78.
+M. Kunze, J. Berger, The similarity between N-terminal targeting signals for protein import into different organelles and its evolutionary relevance, Front. Physiol. 6 (2015) 259.
+K. Ghys, M. Fransen, G.P. Mannaerts, P.P. Van Veldhoven, Functional studies on human Pex7p: subcellular localization and interaction with proteins containing a peroxisome-targeting signal type 2 and other peroxins, Biochem. J. 365 (2002) 41–50.
+T. Singh, M. Hayashi, S. Mano, Y. Arai, S. Goto, M. Nishimura, Molecular com- ponents required for the targeting of PEX7 to peroxisomes in Arabidopsis thaliana, Plant J. 60 (2009) 488–498.
+C. Gietl, B. Wimmer, J. Adamec, F. Kalousek, A cysteine endopeptidase isolated from castor bean endosperm microbodies processes the glyoxysomal malate de- hydrogenase precursor protein, Plant Physiol. 113 (1997) 863–871.
+M. Helm, C. Luck, J. Prestele, G. Hierl, P.F. Huesgen, T. Frohlich, G.J. Arnold,
+I. Adamska, A. Gorg, F. Lottspeich, C. Gietl, Dual specificities of the glyoxysomal/ peroxisomal processing protease Deg15 in higher plants, Proc. Natl. Acad. Sci. U. S. A. 104 (2007) 11501–11506.
+18
+
+M. Kunze
+BBA - Molecular Cell Research 1867 (2020) 118609
+[161]
+[162] [163]
+[164]
+[165] [166]
+[167]
+[168] [169]
+[170] [171]
+[172]
+[173] [174]
+[175] [176] [177] [178]
+[179] [180] [181]
+[182] [183]
+[184] [185]
+I.V. Kurochkin, Y. Mizuno, A. Konagaya, Y. Sakaki, C. Schonbach, Y. Okazaki, Novel peroxisomal protease Tysnd1 processes PTS1- and PTS2-containing enzymes involved in beta-oxidation of fatty acids, EMBO J. 26 (2007) 835–845.
+K. Okumoto, Y. Kametani, Y. Fujiki, Two proteases, trypsin domain-containing 1 (Tysnd1) and peroxisomal lon protease (PsLon), cooperatively regulate fatty acid beta-oxidation in peroxisomal matrix, J. Biol. Chem. 286 (2011) 44367–44379. E. Dolze, F. Chigri, T. Howing, G. Hierl, E. Isono, U.C. Vothknecht, C. Gietl, Calmodulin-like protein AtCML3 mediates dimerization of peroxisomal processing protease AtDEG15 and contributes to normal peroxisome metabolism, Plant Mol. Biol. 83 (2013) 607–624.
+F. Authier, J.J. Bergeron, W.J. Ou, R.A. Rachubinski, B.I. Posner, P.A. Walton, Degradation of the cleaved leader peptide of thiolase by a peroxisomal proteinase, Proc. Natl. Acad. Sci. U. S. A. 92 (1995) 3859–3863.
+Y. Miyauchi-Nanri, S. Mukai, K. Kuroda, Y. Fujiki, CUL4A-DDB1-Rbx1 E3 ligase controls the quality of the PTS2 receptor Pex7p, Biochem. J. 463 (2014) 65–74. S. Cui, Y. Fukao, S. Mano, K. Yamada, M. Hayashi, M. Nishimura, Proteomic analysis reveals that the Rab GTPase RabE1c is involved in the degradation of the peroxisomal protein receptor PEX7 (peroxin 7), J. Biol. Chem. 288 (2013) 6014–6023.
+S. Leon, S. Subramani, A conserved cysteine residue of Pichia pastoris Pex20p is essential for its recycling from the peroxisome to the cytosol, J. Biol. Chem. 282 (2007) 7424–7430.
+P.E. Purdue, P.B. Lazarow, Pex18p is constitutively degraded during peroxisome biogenesis, J. Biol. Chem. 276 (2001) 47684–47689.
+M. Nordgren, T. Francisco, C. Lismont, L. Hennebel, C. Brees, B. Wang, P.P. Van Veldhoven, J.E. Azevedo, M. Fransen, Export-deficient monoubiquitinated PEX5 triggers peroxisome removal in SV40 large T antigen-transformed mouse em- bryonic fibroblasts, Autophagy 11 (2015) 1326–1340.
+K.B. Law, D. Bronte-Tinkew, E. Di Pietro, A. Snowden, R.O. Jones, A. Moser, J.H. Brumell, N. Braverman, P.K. Kim, The peroxisomal AAA ATPase complex prevents pexophagy and development of peroxisome biogenesis disorders, Autophagy 13 (2017) 868–884.
+S. Reumann, S. Quan, K. Aung, P. Yang, K. Manandhar-Shrestha, D. Holbrook, N. Linka, R. Switzenberg, C.G. Wilkerson, A.P. Weber, L.J. Olsen, J. Hu, In-depth proteome analysis of Arabidopsis leaf peroxisomes combined with in vivo sub- cellular targeting verification indicates novel metabolic and regulatory functions of peroxisomes, Plant Physiol. 150 (2009) 125–143.
+M. Kunze, I. Pracharoenwattana, S.M. Smith, A. Hartig, A central role for the peroxisomal membrane in glyoxylate cycle function, Biochim. Biophys. Acta 1763 (2006) 1441–1452.
+J.E. Faust, A. Verma, C. Peng, J.A. McNew, An inventory of peroxisomal proteins and pathways in Drosophila melanogaster, Traffic 13 (2012) 1378–1392.
+N.H. Gonzalez, G. Felsner, F.D. Schramm, A. Klingl, U.G. Maier, K. Bolte, A single peroxisomal targeting signal mediates matrix protein import in diatoms, PLoS One 6 (2011) e25316.
+A. Gurvitz, S. Langer, M. Piskacek, B. Hamilton, H. Ruis, A. Hartig, Predicting the function and subcellular location of Caenorhabditis elegans proteins similar to Saccharomyces cerevisiae beta-oxidation enzymes, Yeast 17 (2000) 188–200. A.M. Motley, E.H. Hettema, R. Ketting, R. Plasterk, H.F. Tabak, Caenorhabditis elegans has a single pathway to target matrix proteins to peroxisomes, EMBO Rep. 1 (2000) 40–46.
+F. Di Cara, R.A. Rachubinski, A.J. Simmonds, Distinct roles for peroxisomal tar- geting signal receptors Pex5 and Pex7 in Drosophila, Genetics 211 (2019) 141–149.
+A.K. Mix, U. Cenci, T. Heimerl, P. Marter, M.L. Wirkner, D. Moog, Identification and localization of peroxisomal biogenesis proteins indicates the presence of peroxisomes in the Cryptophyte Guillardia theta and other “Chromalveolates”, Genome Biol. Evol. 10 (2018) 2834–2852.
+F. Dorninger, S. Forss-Petter, J. Berger, From peroxisomal disorders to common neurodegenerative diseases - the role of ether phospholipids in the nervous system, FEBS Lett. 591 (2017) 2761–2788.
+G.A. Jansen, H.R. Waterham, R.J. Wanders, Molecular basis of Refsum disease: sequence variations in phytanoyl-CoA hydroxylase (PHYH) and the PTS2 receptor (PEX7), Hum. Mutat. 23 (2004) 209–218.
+D.M. Van den Brink, P. Brites, J. Haasjes, A.S. Wierzbicki, J. Mitchell, M. Lambert- Hamill, J. de Belleroche, G.A. Jansen, H.R. Waterham, R.J. Wanders, Identification of PEX7 as the second gene involved in Refsum disease, Adv. Exp. Med. Biol. 544 (2003) 69–70.
+M.A. Horn, D.M. van den Brink, R.J. Wanders, M. Duran, B.T. Poll-The,
+C.M. Tallaksen, O.H. Stokke, H. Moser, O.H. Skjeldal, Phenotype of adult Refsum disease due to a defect in peroxin 7, Neurology 68 (2007) 698–700.
+U. Seedorf, P. Brysch, T. Engel, K. Schrage, G. Assmann, Sterol carrier protein X is peroxisomal 3-oxoacyl coenzyme A thiolase with intrinsic sterol carrier and lipid transfer activity, J. Biol. Chem. 269 (1994) 21277–21283.
+H.W. Moser, Genotype-phenotype correlations in disorders of peroxisome bio- genesis, Mol. Genet. Metab. 68 (1999) 316–327.
+T.W. Yu, M.H. Chahrour, M.E. Coulter, S. Jiralerspong, K. Okamura-Ikeda,
+B. Ataman, K. Schmitz-Abe, D.A. Harmin, M. Adli, A.N. Malik, A.M. D'Gama, E.T. Lim, S.J. Sanders, G.H. Mochida, J.N. Partlow, C.M. Sunu, J.M. Felie,
+J. Rodriguez, R.H. Nasir, J. Ware, R.M. Joseph, R.S. Hill, B.Y. Kwan, M. Al-Saffar, N.M. Mukaddes, A. Hashmi, S. Balkhy, G.G. Gascon, F.M. Hisama, E. LeClair,
+[186] [187]
+[188] [189] [190]
+[191]
+[192] [193]
+[194] [195]
+[196]
+[197]
+[198] [199]
+[200] [201]
+[202] [203] [204]
+[205] [206]
+A. Poduri, O. Oner, S. Al-Saad, S.A. Al-Awadi, L. Bastaki, T. Ben-Omran,
+A.S. Teebi, L. Al-Gazali, V. Eapen, C.R. Stevens, L. Rappaport, S.B. Gabriel,
+K. Markianos, M.W. State, M.E. Greenberg, H. Taniguchi, N.E. Braverman,
+E.M. Morrow, C.A. Walsh, Using whole-exome sequencing to identify inherited causes of autism, Neuron 77 (2013) 259–273.
+F. Dorninger, A. Gundacker, G. Zeitler, D.D. Pollak, J. Berger, Ether lipid defi- ciency in mice produces a complex behavioral phenotype mimicking aspects of human psychiatric disorders, Int. J. Mol. Sci. 20 (2019).
+F. Dorninger, T. Konig, P. Scholze, M.L. Berger, G. Zeitler, C. Wiesinger,
+A. Gundacker, D.D. Pollak, S. Huck, W.W. Just, S. Forss-Petter, C. Pifl, J. Berger, Disturbed neurotransmitter homeostasis in ether lipid deficiency, Hum. Mol. Genet. 28 (2019) 2046–2061.
+J. Berger, F. Dorninger, S. Forss-Petter, M. Kunze, Peroxisomes in brain develop- ment and function, Biochim. Biophys. Acta 1863 (2016) 934–955.
+S. Weller, S.J. Gould, D. Valle, Peroxisome biogenesis disorders, Annu. Rev. Genomics Hum. Genet. 4 (2003) 165–211.
+N.E. Braverman, G.V. Raymond, W.B. Rizzo, A.B. Moser, M.E. Wilkinson,
+E.M. Stone, S.J. Steinberg, M.F. Wangler, E.T. Rush, J.G. Hacia, M. Bose, Peroxisome biogenesis disorders in the Zellweger spectrum: an overview of cur- rent diagnosis, clinical manifestations, and treatment guidelines, Mol. Genet. Metab. 117 (2016) 313–321.
+P. Brites, A.M. Motley, P. Gressens, P.A. Mooyer, I. Ploegaert, V. Everts, P. Evrard, P. Carmeliet, M. Dewerchin, L. Schoonjans, M. Duran, H.R. Waterham,
+R.J. Wanders, M. Baes, Impaired neuronal migration and endochondral ossifica- tion in Pex7 knockout mice: a model for rhizomelic chondrodysplasia punctata, Hum. Mol. Genet. 12 (2003) 2255–2267.
+N. Braverman, R. Zhang, L. Chen, G. Nimmo, S. Scheper, T. Tran, R. Chaudhury, A. Moser, S. Steinberg, A Pex7 hypomorphic mouse model for plasmalogen defi- ciency affecting the lens and skeleton, Mol. Genet. Metab. 99 (2010) 408–416. T. Hashimoto, T. Fujita, N. Usuda, W. Cook, C. Qi, J.M. Peters, F.J. Gonzalez, A.V. Yeldandi, M.S. Rao, J.K. Reddy, Peroxisomal and mitochondrial fatty acid beta-oxidation in mice nullizygous for both peroxisome proliferator-activated re- ceptor alpha and peroxisomal fatty acyl-CoA oxidase. Genotype correlation with fatty liver phenotype, J. Biol. Chem. 274 (1999) 19228–19236.
+K. Martens, E. Ver Loren van Themaat, M.F. van Batenburg, M. Heinaniemi,
+S. Huyghe, P. Van Hummelen, C. Carlberg, P.P. Van Veldhoven, A. Van Kampen, M. Baes, Coordinate induction of PPAR alpha and SREBP2 in multifunctional protein 2 deficient mice, Biochim. Biophys. Acta 1781 (2008) 694–702.
+C.Y. Fan, J. Pan, N. Usuda, A.V. Yeldandi, M.S. Rao, J.K. Reddy, Steatohepatitis, spontaneous peroxisome proliferation and liver tumors in mice lacking perox- isomal fatty acyl-CoA oxidase. Implications for peroxisome proliferator-activated receptor alpha natural ligand metabolism, J. Biol. Chem. 273 (1998) 15639–15645.
+M. Baes, S. Huyghe, P. Carmeliet, P.E. Declercq, D. Collen, G.P. Mannaerts,
+P.P. Van Veldhoven, Inactivation of the peroxisomal multifunctional protein-2 in mice impedes the degradation of not only 2-methyl-branched fatty acids and bile acid intermediates but also of very long chain fatty acids, J. Biol. Chem. 275 (2000) 16329–16336.
+N. Galland, F. Demeure, V. Hannaert, E. Verplaetse, D. Vertommen, P. Van der Smissen, P.J. Courtoy, P.A. Michels, Characterization of the role of the receptors PEX5 and PEX7 in the import of proteins into glycosomes of Trypanosoma brucei, Biochim. Biophys. Acta 1773 (2007) 521–535.
+T. Stehlik, B. Sandrock, J. Ast, J. Freitag, Fungal peroxisomes as biosynthetic or- ganelles, Curr. Opin. Microbiol. 22 (2014) 8–14.
+M. Grundlinger, S. Yasmin, B.E. Lechner, S. Geley, M. Schrettl, M. Hynes, H. Haas, Fungal siderophore biosynthesis is partially localized in peroxisomes, Mol. Microbiol. 88 (2013) 862–875.
+T. Osumi, T. Tsukamoto, S. Hata, Signal peptide for peroxisomal targeting: re- placement of an essential histidine residue by certain amino acids converts the amino-terminal presequence of peroxisomal 3-ketoacyl-CoA thiolase to a mi- tochondrial signal peptide, Biochem. Biophys. Res. Commun. 186 (1992) 811–818.
+J.L. Costello, I.G. Castro, F. Camoes, T.A. Schrader, D. McNeall, J. Yang,
+E.A. Giannopoulou, S. Gomes, V. Pogenberg, N.A. Bonekamp, D. Ribeiro,
+M. Wilmanns, G. Jedd, M. Islinger, M. Schrader, Predicting the targeting of tail- anchored proteins to subcellular compartments in mammalian cells, J. Cell Sci. 130 (2017) 1675–1687.
+G. Neuberger, M. Kunze, F. Eisenhaber, J. Berger, A. Hartig, C. Brocard, Hidden localization motifs: naturally occurring peroxisomal targeting signals in non-per- oxisomal proteins, Genome Biol. 5 (2004) R97.
+S. Reumann, G. Chowdhary, T. Lingner, Characterization, prediction and evolu- tion of plant peroxisomal targeting signals type 1 (PTS1s), Biochim. Biophys. Acta 1863 (2016) 790–803.
+A. Mukhopadhyay, L. Ni, H. Weiner, A co-translational model to explain the in vivo import of proteins into HeLa cell mitochondria, Biochem. J. 382 (2004) 385–392.
+C. Carrie, I. Small, A reevaluation of dual-targeting of proteins to mitochondria and chloroplasts, Biochim. Biophys. Acta 1833 (2013) 253–259.
+E. Krieger, G. Koraimann, G. Vriend, Increasing the precision of comparative models with YASARA NOVA–a self-parameterizing force field, Proteins 47 (2002) 393–402.
+19
