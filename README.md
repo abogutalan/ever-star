@@ -1,4 +1,4 @@
-# Semantic search with Elasticsearch, OpenAI, and LangChain
+# RAG APP: Semantic search with Elasticsearch, OpenAI, and LangChain
 
 ### Project Name: Semantic Scholar: An Advanced Semantic Search Engine
 
